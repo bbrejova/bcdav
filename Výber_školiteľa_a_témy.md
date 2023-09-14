@@ -54,13 +54,12 @@ si túto oblasť môžete sami vybrať.
         vyznáte a spolupracovali ste už aj so školiteľom
   - Zistite, akí školitelia pôsobia vo zvolenej oblasti
       - Vyučujúci predmetov v tejto oblasti
-      - Môžete sa pozrieť, kto v minulosti školil práce v podobnej
-        oblasti
-          - Na stránke [Katedry informatiky](http://www.dcs.fmph.uniba.sk/bakalarky/obhajene/Zoznam.php) (niektoré roky)
+      - Na stránke [Školitelia](Školitelia.html)
+      - Šḱolitelia prác z podobnej oblasti na [študentskej vedeckej konferencii](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
+      - Môžete sa pozrieť, kto v minulosti školil práce v podobnej oblasti
           - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](http://alis.uniba.sk:8088/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
             zadajte ako žáner bakalárske práce a ako predmet
-            Informatika, zotrieďte podľa roku vydania
-            (obsahuje aj práce z aplikovanej informatiky)
+            Informatika alebo Matematika, zotrieďte podľa roku vydania
   - Oslovte potenciálnych školiteľov e-mailom alebo osobne, spýtajte sa,
     aké ponúkajú témy
       - Témy niekedy môžete nájsť aj v systéme AIS, na stránkach

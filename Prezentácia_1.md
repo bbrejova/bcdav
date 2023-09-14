@@ -3,10 +3,8 @@ title: Prezentácia 1
 ---
 
 Spolu 40% známky. Prezentácie odovzdať aspoň hodinu vopred
-prostredníctvom systému [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=40952).
-<!--
-[DAV+BIN](https://moodle.uniba.sk/mod/assign/view.php?id=94795).
--->
+prostredníctvom systému [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=94795).
+
 
   - Vašou úlohou je prezentovať tému bakalárskej práce - stručný úvod do
     problematiky a čo plánujete robiť vy.

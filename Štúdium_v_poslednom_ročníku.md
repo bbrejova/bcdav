@@ -10,13 +10,12 @@ title: Štúdium v poslednom ročníku
       - celkovo aspoň 180 kreditov
       - všetky povinné predmety (vrátane angličtiny a telocviku)
       - splnené podmienky na povinne voliteľné predmety
-      - zapíšte si aj predmety štátnej skúšky (obhajobu ak už státnice
-        máte)
+      - zapíšte si aj predmety štátnej skúšky
   - Pozor na to, že nespravené skúšky znamenajú o rok dlhšie štúdium (a
     platenie školného)
   - Pokiaľ možno, nenechávajte si príliš veľa predmetov na letný
-    semester, lebo budete mať dosť starostí s dokončovaním bakalárky,
-    prípadne s prípravou na štátnice
+    semester, lebo budete mať dosť starostí s dokončovaním bakalárky
+    a s prípravou na štátnice
   - V letnom semestri budete tiež mať skrátené skúškové obdobie
   - Voľba výberoviek a povinne voliteľných predmetov:
       - zapíšte si predmety, ktoré potrebujete k svojej bakalárskej
