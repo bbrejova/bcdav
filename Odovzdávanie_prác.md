@@ -40,7 +40,7 @@ title: Odovzdávanie prác
 
 ## Odovzdávanie do katedrového systému
 
-  - Pre program INF vyžaduje Katedra informatiky odovzdanie práce
+  - Pre program BIN vyžaduje Katedra informatiky odovzdanie práce
     aj do katedrového [systému](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
 
 ## Licenčné zmluvy
@@ -102,7 +102,7 @@ knižnici
   - Jednostranná alebo obojstranná tlač (od 2018 sa odporúča
     obojstranná), pevná väzba (tvrdé dosky alebo termoväzba), nesmie
     byť možné vyberať stránky
-  - Elektronické prílohy stačí odovzdať do AIS a v prípade INF a BIN do
+  - Elektronické prílohy stačí odovzdať do AIS a v prípade BIN do
     katedrového systému KI, netreba ich prikladať k vytlačenej práci
   - Pozor na správnu úpravu titulnej stránky a ďalších povinných
     náležitostí
@@ -116,10 +116,16 @@ knižnici
 
 ## Odovzdávanie vytlačených prác na katedre
 
+BIN:
+
   - Odovzdáva sa na sekretariáte Katedry informatiky u pani Pažickej,
     M-254 do piatku 26.5.(?), odporúčame prísť v doobednajších hodinách
   - Ďalšie informácie viď [stránka
     katedry](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
+
+DAV
+
+  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24 do piatku 26.5.(?) alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI
 
 Prineste
 
@@ -136,5 +142,4 @@ Prineste
     (ktorého vyberá garant)
   - Školiteľský aj oponentský posudok nájdete v AIS, mali by ste ho
     dostať aspoň 3 dni pred obhajobou
-  - Prezentáciu na obhajobu odovzdávajte cez [katedrový systém](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac) aspoň 16
-    hodín pred obhajobami
+  - Prezentáciu na obhajobu odovzdávajte cez Moodle k tomuto predmetu najneskôr 1 hodinu pred začiatkom obhajob v danom dni

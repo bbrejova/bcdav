@@ -18,47 +18,84 @@ si túto oblasť môžete sami vybrať.
 
 ### Typy bakalárskych prác
 
-  - Implementačné: návrh a implementácia softéru
-  - Teoretické: riešenie teoretických otvorených problémov
-  - Experimentálne: testovanie rôznych algoritmov na dátach (rýchlosť,
-    presnosť)
-  - Prehľadové: spracovanie prehľadu určitej oblasti na základe
-    dostupnej literatúry
-  - Prípadne kombinácia
-  - V každom prípade je dôležitá samotná písomná práca, v ktorej
-    popíšete existujúce výsledky v danej oblasti a prezentujete svoje
-    výsledky
-      - Rozsah cca 30 strán textu v odbornom štýle
+Vlastný prínos bakalárskej práce v študijnom programe Dátová veda môže
+byť napríklad:
+
+  - **vypracovanie náročnejšej analýzy reálnych dát s následnou
+    interpretáciou výsledkov;** ideálne študent v rámci práce použije
+    viacero alternatívnych prístupov a v porovnaní výsledkov vyzdvihne
+    výhody a nevýhody jednotlivých prístupov
+  - **implementácia netriviálneho algoritmu na analýzu dát, ktorý
+    pochádza z odbornej literatúry alebo sa jedná o vlastný
+    algoritmus;** nemalo by ísť o priamočiaru reimplementáciu
+    existujúceho nástroja, v ideálnom prípade vlastnosti algoritmu budú
+    demonštrované na simulovaných alebo reálnych dátach, prípadne bude
+    implementácia porovnaná s inými implementáciami / algoritmami
+  - **vytvorenie zmysluplnej aplikácie pre potreby praxe alebo pre
+    potreby vedeckého výskumu;** práca by mala obsahovať aj porovnanie
+    vytvorenej aplikácie s inými podobnými aplikáciami, ak je to pre
+    danú problematiku relevantné
+  - porovnanie dvoch alebo viacerých metód/algoritmov na analýzu dát,
+    spravidla v kontexte konkrétnej aplikácie; predpokladá sa, že autor
+    bakalárskej práce v rámci práce demonštruje, že rozumie princípom
+    porovnávaných metód / algoritmov
+  - **vytvorenie prehľadu problematiky relevantnej pre študijný program,
+    ktorá presahuje vedomosti získané v rámci bakalárskeho štúdia;** v
+    rámci prehľadovej práce by mal študent preukázať, že po technickej
+    stránke rozumie používaným metódam; témy, ku ktorým už existujú
+    učebnice alebo dobré prehľady ale nie sú vhodné ako témy
+    prehľadových prác
+  - **teoretické témy z oblasti matematiky alebo informatiky;**
+    dokázanie nových výsledkov
+
+V študijnom programe Bioinformatika môžete taktiež riešiť témy z oblasti
+informatiky, matematiky alebo dátovej vedy, ale ideálne práca súvisí s
+bioinformatikou. Obvyklé typy prác:
+
+  - **analýza konkrétnych biologických dát pomocou existujúcich
+    bioinformatických nástrojov s interpretáciou výsledkov**; ideálne je
+    porovnať viacero prístupov alebo nastavení programu; text by mal
+    demonštrovať, že študent rozumie použitým metódam a toto porozumenie
+    využije pri diskusii získaných výsledkov
+  - **vytváranie softvérových riešení prepájajúcich viacero existujúcich
+    bioinformatických nástrojov** (tzv. pipeline); opäť s dôkladným
+    otestovaním a uvažovaním alternatív pre jednotlivé fázy výpočtu
+  - **dizajn a implementácia vlastného bioinformatického algoritmu;**
+    vrátane porovnania s existujúcimi metódami
+  - **využitie metód strojového učenia a štatistickej analýzy na
+    konkrétny bioinformatický problém;** opäť vrátane dôkladného
+    testovania a porovnania
+
+V každom prípade je dôležitá samotná písomná práca, v ktorej popíšete
+existujúce výsledky v danej oblasti a prezentujete svoje výsledky
+
+  - Rozsah cca 30 strán textu v odbornom štýle
 
 ### Možní školitelia
 
   - Mali by mať aspoň titul Mgr. alebo Ing.
-  - Zamestnanci alebo doktorandi Katedry informatiky
-  - Zamestnanci alebo doktorandi iných katedier (najčastejšie Katedra
-    aplikovanej informatiky a Katedra algebry a geometrie)
+  - Zamestnanci alebo doktorandi na FMFI UK, v prípade bioinformatiky
+    tiež PriF UK, LF UK a pod.
   - Zriedkavejšie aj školitelia z iných škôl, zo SAV, prípadne z praxe
   - Pozor, externí školitelia nepoznajú zvyklosti na našej fakulte resp.
     v našom odbore. Odporúčame konzultovať napr. na tomto predmete.
 
 ### Hľadanie témy
 
-  - Zvoľte si oblasť informatiky, ktorá vás zaujíma.
+  - Zvoľte si oblasť, ktorá vás zaujíma.
       - Ideálne je v tej istej oblasti pokračovať aj na diplomovej
         práci, ak sa vám však prestane páčiť, nie je problém zamerať sa
         na magisterskom štúdiu na niečo iné.
       - Môže ísť o oblasť, ktorej by ste sa chceli venovať aj neskôr
         profesionálne, alebo naopak môžete využiť bakalársku prácu ako
         šancu robiť niečo, čo vás baví, ale možno vás neuživí.
-      - Niekedy je možné druhácky ročníkový projekt rozšíriť na
-        bakalársku prácu, čo vám uľahčí začiatky, lebo v téme sa
-        vyznáte a spolupracovali ste už aj so školiteľom
   - Zistite, akí školitelia pôsobia vo zvolenej oblasti
       - Vyučujúci predmetov v tejto oblasti
-      - Na stránke [Školitelia](Školitelia.html)
+      - [Príklady bakalárskych prác z minulosti](./Školitelia_a_témy_DAV.html)
       - Šḱolitelia prác z podobnej oblasti na [študentskej vedeckej konferencii](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
       - Môžete sa pozrieť, kto v minulosti školil práce v podobnej oblasti
           - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](http://alis.uniba.sk:8088/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
-            zadajte ako žáner bakalárske práce a ako predmet
+            zadajte ako žáner bakalárske práce a ako predmet napríklad
             Informatika alebo Matematika, zotrieďte podľa roku vydania
   - Oslovte potenciálnych školiteľov e-mailom alebo osobne, spýtajte sa,
     aké ponúkajú témy
@@ -76,8 +113,7 @@ si túto oblasť môžete sami vybrať.
     tam ako študenta
       - Treba zadať názov a cieľ práce (názov v slovenskom aj anglickom
         jazyku) a zvoliť aj jazyk, v akom bude práca písaná
-  - Garantka (doc. Pardubská) potom tému v systéme AIS elektronicky
-    schváli (ak je zadanie vhodné)
+  - Garanti (doc. Vinař, doc. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schváli (ak je zadanie vhodné)
   - Téma by mala byť v AIS aj schválená do 31.10. Mali by ste si preto
     tému nájsť v dostatočnom predstihu, aby školiteľ a garant mali čas
     vybaviť túto administratívu
