@@ -4,8 +4,8 @@ title: Kontakt
 
 **Vyučujúci**
 
-- [doc. RNDr. Robert Lukoťka PhD.](http://new.dcs.fmph.uniba.sk/index.php/Zamestnanci?_method=detail&_key=alias&alias=RobertLukotka)
-- [doc. Dr. Tomáš Plachetka](http://new.dcs.fmph.uniba.sk/index.php/TomasPlachetka)
-- [doc. RNDr. Dana Pardubská CSc.](http://new.dcs.fmph.uniba.sk/index.php/DanaPardubska)
+- [doc. Mgr. Broňa Brejová, PhD.](http://compbio.fmph.uniba.sk/~bbrejova/)
+- [Mgr. Askar Gafurov, PhD.](http://www.dcs.fmph.uniba.sk/~gafurov/)
+ 
 
 Konzultácie po dohode emailom.
