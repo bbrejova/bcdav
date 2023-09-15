@@ -39,7 +39,6 @@ V hodnotení majú jednotlivé zložky nasledujúcu váhu:
     - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa pravidiel nižšie
 - Účasť na prezentáciách nie je možné nahradzovať aktivitami nižšie
 - V prípade neúčasti si samostatne preštudujte poznámky z vymeškanej hodiny na stránke predmetu
-- V prípade potreby prejdeme na dištančnú formu cez MS Teams.
 
 Aktivity na nahrádzanie neúčasti
 
@@ -62,9 +61,7 @@ Upozorňujeme, že tieto aktivity môžu byť náročnejšie ako účasť na sem
 - Odovzdáva sa elektronicky do systému Moodle, kde budeme tiež zverejňovať body
 - Dodržujte termín odovzdania a pokyny uvedené v zadaní
 - Úlohy vám pomôžu precvičiť si zručnosti užitočné pri písaní práce
-- Domácu úlohu vypracujte samostatne, neodpisujte od spolužiakov ani z internetových a iných zdrojov.
-  - Zdroje použité v texte riadne citujte.
-  - Ak nájdeme prípady odpisovania, všetci zúčastnení študenti získajú za príslušnú domácu úlohu -5% (aj študenti, ktorí dali spolužiakom odpísať). Opakované alebo obzvlášť závažné prípady odpisovania alebo porušovania pravidiel predmetu budú podstúpené na riešenie disciplinárnej komisii fakulty.
+- Domácu úlohu vypracujte samostatne, citujte použité zdroje a vyhnite sa plagiátorským praktikám.
 
 ## Kontrolné stretnutie
 

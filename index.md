@@ -15,7 +15,7 @@ layout: index
 * **19.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
 <!-- [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) • [Oznamy](Oznamy_október.md) -->
 * **26.10. Rezerva**
-* **2.11. Sviatok**
+* **2.11. Rezerva / Voľno**
 * **9.11. Prezentácie (aspoň 2)**
 * **16.11. Prezentácie (aspoň 2)**
 * **23.11. Prezentácie (aspoň 2)**

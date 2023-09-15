@@ -224,3 +224,11 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
   - Pri prehľade literatúry si robte poznámky a potom spíšte text
     vlastnými slovami. Neodpisujte resp. neprekladajte mechanicky celé
     kusy textu z iných zdrojov.
+
+## Použitie umelej inteligencie pri písaní textu
+
+- Na fakulte zatiaľ nemáme špecifické pravidlá týkajúce sa použitia nástrojov umelej inteligencie.
+- Používajte ich s mierou. Ak si dáte písať celé kusy textu, je to podobný podvod, ako keby ste dali prácu písať inej osobe.
+- Prípadné použitie týchto nástrojov uveďte v poďakovaní, vrátane podrobnosti, na čo ste ich využili.
+- Malo by byť akceptovateľné využiť ich na kontrolu pravopisu a drobné štylistické úpravy, avšak dobre si skontrolujte, či nemenia význam vášho textu.
+- Môžu vám pomôcť sa zorientovať v problematike, ale všetky fakty si overte aj v nezávislých a dôveryhodných zdrojoch.
