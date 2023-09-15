@@ -129,5 +129,5 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
       - Po zmene zadania treba opäť zaniesť podpísanú kópiu na študijné
   - Ak váš školiteľ nie je z fakulty, dajte nám vedieť, pomôžeme vám so
     zadávaním témy do AIS
-      - Ideálne je, ak školiteľ pošle e-mailom doc. Pardubskej vyplnené údaje
+      - Ideálne je, ak školiteľ pošle e-mailom doc. Brejovej vyplnené údaje
         podľa [tohto formulára](./Externý_školiteľ.md)

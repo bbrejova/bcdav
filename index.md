@@ -3,6 +3,8 @@ title: Úvod
 layout: index
 ---
 
+### 1-DAV-921, 1-BIN-921, 1-DAV-922, 1-BIN-922
+
 * **21.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)
 * **28.9. Predstavovanie tém a školiteľov (všetci)**

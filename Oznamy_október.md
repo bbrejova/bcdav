@@ -1,5 +1,5 @@
 ---
-title: Oznamy 18.10.2023
+title: Oznamy 19.10.2023
 ---
 
 **Dnes:** rozpis prezentácií, pokyny k prezentáciám, domáca úloha, LaTeX
@@ -8,7 +8,7 @@ pre diplomovú prácu, kontrolné stretnutie
 **Zadania**
 
   - Do 31.10. by ste mali mať v AIS schválené zadanie, viď [návod](./Výber_školiteľa_a_témy.md#administratíva),
-  - Ak váš školiteľ nemá prístup do AIS, nech doc. Pardubskej pošle [detaily témy](./Externý_školiteľ.md) emailom
+  - Ak váš školiteľ nemá prístup do AIS, nech doc. Brejovej pošle [detaily témy](./Externý_školiteľ.md) emailom
   - Podpísanú kópiu treba začiatkom novembra zaniesť na študijné
 
 **Čo nás čaká na seminári**
