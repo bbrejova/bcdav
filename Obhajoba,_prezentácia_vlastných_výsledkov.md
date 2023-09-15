@@ -194,7 +194,7 @@ Nemajte v prezentácii príliš veľa "preklikávania"
   - Ak používate vlastný počítač, skúste si ho vopred niekde zapojiť do
     projektoru, aby ste sa naučili, ako to funguje. Overte si, že máte
     správny typ grafického výstupu. Ako zálohu odovzdajte aj prezentáciu
-    cez katedrovú stránku (INF) / Moodle (DAV+BIN).
+    cez Moodle (DAV+BIN).
 
 ## Ústny prejav
 
