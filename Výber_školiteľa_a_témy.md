@@ -91,7 +91,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
         šancu robiť niečo, čo vás baví, ale možno vás neuživí.
   - Zistite, akí školitelia pôsobia vo zvolenej oblasti
       - Vyučujúci predmetov v tejto oblasti
-      - [Príklady bakalárskych prác z minulosti](./Školitelia_a_témy_DAV.html)
+      - [Príklady bakalárskych prác z minulosti](./Školitelia.html)
       - Šḱolitelia prác z podobnej oblasti na [študentskej vedeckej konferencii](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
       - Môžete sa pozrieť, kto v minulosti školil práce v podobnej oblasti
           - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](http://alis.uniba.sk:8088/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
