@@ -8,6 +8,7 @@ layout: index
 * **21.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)
 * **28.9. Predstavovanie tém a školiteľov (všetci)**
+* **Streda 4.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**<br>
 * **5.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
 <!-- [Úvod do LaTeXu](./Úvod_do_LaTeXu.md) -->
 * **12.10. Písomná práca, práca s literatúrou (všetci)**<br>

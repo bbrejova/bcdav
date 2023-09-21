@@ -26,9 +26,6 @@ title: Štúdium v poslednom ročníku
         voliteľných predmetov z magisterského štúdia Informatika, lebo
         na magisterskom budete musieť zo zvyšných absolvovať aspoň 70
         kreditov
-      - na plánovanie prechodu z bakalárskeho na magisterské štúdium
-        odporúčame [on-line
-        nástroj](https://beda.dcs.fmph.uniba.sk/mINF/#/studium)
 
 ### Iné povinnosti
 

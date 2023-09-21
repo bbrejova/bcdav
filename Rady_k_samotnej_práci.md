@@ -24,10 +24,10 @@ title: Rady k samotnej práci
       - poznámky k naštudovanej literatúre
       - zoznam použitých zdrojov (knihy, články, webstránky, softvér,
         zdroje dát atď.)
-      - uvažované varianty návrhu (nielen víťazný variant)
+      - uvažované varianty návrhu softvéru/modelu (nielen víťazný variant)
       - presný postup pri spracovaní použitých dát, vrátane analýz
         zameraných na exploráciu a kontrolu dát
-      - výsledky výpočtových experimentov
+      - výsledky analýz a výpočtových experimentov (tabuľky, grafy, zdrojové dáta ku nim)
 
 ### Zdrojový kód
 
@@ -58,7 +58,7 @@ title: Rady k samotnej práci
     predĺženiu štúdia. Ak meníte školiteľa, nezabudnite dať o tom
     vedieť aj pôvodnému školiteľovi
 
-### Príklad časového plánu
+### Príklad časového plánu pre implementačný projekt
 
   - Výber témy do polovice októbra
   - Finalizácia zadania, zháňanie literatúry do konca októbra
@@ -68,6 +68,8 @@ title: Rady k samotnej práci
   - Testovanie, rozširovanie do konca marca
   - Písanie práce do konca apríla (aj priebežne v skorších fázach)
   - Rezerva, kontrola do termínu odovzdania
+
+Pre projekty analýzy dát sa fázy špecifikácia, implementácia a testovanie nahradia exploratívnou a finálnou analýzou dát. 
 
 Tento časový plán prispôsobte vášmu projektu
 
