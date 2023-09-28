@@ -10,7 +10,7 @@ layout: index
 * **28.9. Predstavovanie tém a školiteľov (všetci)**
 * **Streda 4.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**<br>
 * **5.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
-<!-- [Úvod do LaTeXu](./Úvod_do_LaTeXu.md) -->
+[Úvod do LaTeXu](./Úvod_do_LaTeXu.md)  • Prineste si notebook, pripravte si softvér / konto na overleaf.com
 * **12.10. Písomná práca, práca s literatúrou (všetci)**<br>
 <!-- [Návod](./Návod.md) (podstránky 3.,4.,5.) -->
 * **19.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
