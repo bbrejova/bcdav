@@ -153,18 +153,18 @@ konzistentné v celom zozname literatúry)
 
   - Odkaz typu \[1\] alebo \[CLRS01\] by sa nemal používať ako podstatné
     meno. Funguje ako zátvorka, mal by sa teda dať z vety vyhodiť. Nie
-    je teda vhodné prvý príklad preformulovať ako *Podľa \[1\],
+    je teda vhodné prvý príklad preformulovať ako *Podľa \[4\],
     zložitosť je...*
   - Niekedy chceme autorov alebo zdroj uviesť výraznejšie než len
     odkazom v zátvorke. Vtedy môžeme časť údajov o zdroji uviesť v
     texte.
       - *Viac detailov o algoritme MergeSort čitateľ nájde napríklad v
-        učebnici od autorov Cormen a kol. \[4\].* (takéto vety používať
+        učebnici od autorov Cormen a kol. \[4\].* (Takéto vety používajte
         zriedkavo, vaša práca by mala byť ucelená a nemala by príliš
-        často explicitne posielať čitateľov k iným zdrojom)
+        často explicitne posielať čitateľov k iným zdrojom.)
         *Fibonacciho haldy publikovali v roku 1987 Fredman a Tarjan
-        \[5\].* (takáto veta sa hodí do časti, kde popisujeme históriu
-        určitej oblasti)
+        \[5\].* (Takáto veta sa hodí do časti, kde popisujeme históriu
+        určitej oblasti.)
   - Je možné sa odkazovať aj na konkrétne kapitoly alebo strany
     citovaných diel.
 
