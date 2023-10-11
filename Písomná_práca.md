@@ -31,7 +31,6 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
           - Ak máte externého školiteľa, uvádzajte katedru garanta podľa
             zadania práce
       - Správne uveďte študijný program a odbor:
-          - Študijný program: Informatika, Študijný odbor: Informatika
           - Študijný program: Dátová veda, Študijný odbor: Informatika a
             Matematika
           - Študijný program: Bioinformatika, Študijný odbor:
@@ -66,9 +65,9 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
         definície potrebných pojmov, prehľad súvisiacej literatúry
         alebo existujúcich riešení problému
       - Ďalšie kapitoly potom obsahujú vaše výsledky
-      - Ak máte v práci experimenty (výpočtové alebo s užívateľmi) alebo
+      - Ak máte v práci experimenty (výpočtové alebo s používateľmi) alebo
         pracujete s nejakými dátami, podrobne popíšte detaily postupu
-        tak, aby váš experiment vedel niekto iný zreplikovať
+        tak, aby váš experiment alebo analýzu vedel niekto iný zreplikovať
       - Ak v práci uvádzate grafy a tabuľky, dôkladne popíšte ich obsah
         (uveďte význam osí, farieb a pod, význam zobrazených dát,
         jednotky merania a pod.) a tiež okomentujte zobrazené údaje
@@ -196,7 +195,7 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
 ### Zopár užitočných zdrojov
 
   - [Renée J. Miller. Computer Science
-    Writing](http://dblab.cs.toronto.edu/~miller/Research/writing.html)
+    Writing](https://www.cs.toronto.edu/~miller/resources.html)
   - [Kevin P. Lee. A Guide to Writing
     Mathematics](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
   - [Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts. Mathematical
