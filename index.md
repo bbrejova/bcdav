@@ -12,7 +12,7 @@ layout: index
 * **5.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
 [Úvod do LaTeXu](./Úvod_do_LaTeXu.md)  • Prineste si notebook, pripravte si softvér / konto na overleaf.com
 * **12.10. Písomná práca, práca s literatúrou (všetci)**<br>
-<!-- [Návod](./Návod.md) (podstránky 3.,4.,5.) -->
+[Návod](./Návod.md) (podstránky 3.,4.,5.) 
 * **19.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
 <!-- [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) • [Oznamy](Oznamy_október.md) -->
 * **26.10. Rezerva**
