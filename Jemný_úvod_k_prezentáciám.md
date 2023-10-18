@@ -9,8 +9,8 @@ prezentácia vlastných výsledkov](./Obhajoba,_prezentácia_vlastných_výsledk
     semestri pokrok v práci
   - Najdôležitejšia je však samotná obhajoba (15 min. prezentácia +
     diskusia)
-  - Aj neskôr v zamestnaní budete možno potrebovať prezentovať určitý
-    materiál kolegom alebo klientom, prezentačné schopnosti bývajú
+  - Aj neskôr v zamestnaní budete pravdepodobne prezentovať 
+    materiály kolegom alebo klientom, prezentačné schopnosti bývajú
     žiadané zamestnávateľmi
 
 ## Zamyslenie sa pred prípravou prezentácie

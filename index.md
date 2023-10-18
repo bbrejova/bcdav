@@ -28,4 +28,4 @@ Prezentujú Antol, Lopaška, Belák, Cingel, Gáborik, Pauer
 Prezentujú Burianová, Franček, Daniš, Kobelárová, Kopecká, Štauder
 * **14.12. Prezentácie (aspoň 2)**<br>
 Prezentujú Bezáková, Füleová, Brožová, Caban, Pravdová, Pitoňák
-* Kontrolné stretnutie cez skúškové obdobie<br>
+* **Kontrolné stretnutie cez skúškové obdobie**

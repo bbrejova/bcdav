@@ -19,7 +19,7 @@ Kostra obsahuje niekoľko súborov:
   - ďalšie súbory `.tex`: jednotlivé kapitoly práce - úvod, kapitola,
     latex, záver, prílohy
   - `literatúra.bib`: zoznam literatúry v BibTeXu
-  - prečinok images s obrázkami a zadaním v pdf formáte
+  - prečinok `images` s obrázkami a zadaním v pdf formáte
 
 Vytvorenie pdf (ak používate príkazový riadok):
 
@@ -114,32 +114,31 @@ Ak sa na túto kapitolu teraz chceme odvolať, použijeme `\ref`:
     [BibTeX](http://en.wikipedia.org/wiki/BibTeX)
   - V .bib súbore si spravíme zoznam použitých zdrojov, každému dáme
     label
-  - Záznamy vo formáte pre BibTex si vieme stiahnuť z niektorých stránok
+  - Záznamy vo formáte pre BibTeX si vieme stiahnuť z niektorých stránok
     (napr. [Google scholar](http://scholar.google.com/)) alebo vytvoriť
     [nástrojmi na prácu s
-    literatúrou](./Práca_s_literatúrou#Podporn.C3.BD_softv.C3.A9r.md)
+    literatúrou](./Práca_s_literatúrou.html#podporný-softvér)
   - V texte odkazujeme na zdroje pomocou `\cite{label}`, každý zdroj by
     sme mali aspoň raz zacitovať
 
 Časté chyby:
 
   - BibTeX mení písmená v názve článku na malé, čo je problém pri
-    skratkách a vlastných menách v názvoch. Vložte tieto slová do {}.
-    Napr `title="Theano: a {CPU} and {GPU} math expression compiler"`.
+    skratkách a vlastných menách v názvoch. Vložte tieto slová do {},
+    napríklad `title="Theano: a {CPU} and {GPU} math expression compiler"`.
   - Mená autorov treba písať v poradí krstné meno priezvisko alebo
-    priezvisko, krstné meno (t.j. Jozef Mrkvička alebo Mrkvička, Jozef).
-  - Autorov oddeľujte slovom and, čiarka sa považuje za oddelenie
+    priezvisko, krstné meno (t.j. `Jozef Mrkvička` alebo `Mrkvička, Jozef`).
+  - Autorov oddeľujte slovom `and`, čiarka sa považuje za oddelenie
     priezviska a mena.
   - Ak je autorom organizácia s viacslovným názvom, dajte ju do {}, napr
     `author="{ENCODE Project Consortium}"`
   - Ak je autorov veľa, uveďte prvého a et al., čo dostanete v BibTeXu
-    pomocou `and others`
+    pomocou `and others`.
 
 ## Zaujímavé balíčky
 
-Tu bude postupne pribúdať zoznam zaujímavých balíčkov v LaTeXu, ktoré
-nájdeme a budeme považovať za užitočné, alebo ich odporučíte
-spolužiakom vy.
+Tu postupne pribúda zoznam balíčkov v LaTeXu, ktoré
+považujeme za užitočné, alebo ich odporučíte spolužiakom vy.
 
   - [Balíček subcaption](https://ctan.org/pkg/subcaption) urobí do
     jedného obrázku viac podobrázkov
@@ -160,7 +159,7 @@ sa dať previesť na čistý text.
 
   - prevod na text si môžete otestovať [na stránke CRZP](http://testdoc.crzp.sk/?fn=main).
 
-Rozhodne zatiaľ neodovzdávajte prácu (alebo časti práce) do AISu. Prácu
+Rozhodne zatiaľ neodovzdávajte prácu do AISu. Prácu
 odovzdajte a označte v systéme AiS2 ako finálnu až po ubezpečení sa, že
 je to konečná verzia a že v nej nebudete robiť ďalšie úpravy. **Prácu
 môže študent označiť ako finálnu IBA 1x.**

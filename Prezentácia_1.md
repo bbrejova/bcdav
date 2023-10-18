@@ -26,7 +26,7 @@ prostredníctvom systému [Moodle](https://moodle.uniba.sk/mod/assign/view.php?i
     Moodle aspoň hodinu pred začiatkom seminára, na ktorom prezentujete.
     Prezentáciu nahráme na náš počítač, z ktorého budete prezentovať.
   - Pri príprave prezentácie sa riaďte radami na stránke [Jemný úvod k
-    prezentáciám](./Jemný_úvod_k_prezentáciám.md).
+    prezentáciám](./Jemný_úvod_k_prezentáciám.html).
   - Na ǘvodnej stránke prezentácie nezabudnite základné údaje: vaše
     meno, názov práce, meno školiteľa.
   - Prípadné zmeny termínu len po dohode s vyučujúcimi. Ak nemôžete
