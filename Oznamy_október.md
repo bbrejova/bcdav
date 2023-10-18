@@ -13,7 +13,7 @@ pre diplomovú prácu, kontrolné stretnutie
 
 **Čo nás čaká na seminári**
 
-  - V novembri a začiatkom decembra **prezentácie**
+  - V novembri a decembri **prezentácie**
       - Rozpis prezentácií je na stránke.
       - Prezentovať musíte na vám pridelenom termíne. Prípadné zmeny
         termínu len po dohode s vyučujúcimi.
@@ -36,7 +36,7 @@ pre diplomovú prácu, kontrolné stretnutie
 
 **Iné**
 
-  - Do 21.10.2022
+  - Do 24.10.2023
     [žiadosti](https://zona.fmph.uniba.sk/fileadmin/fmfi/fakulta/tlaciva/ziadost_JMS-SK.pdf)
     o mimoriadne štipendium v prípade mimoriadnych materiálnych nárokov
-    na bakalársku prácu (ďalšie kolo pravdepodobne v marci 2023)
+    na bakalársku prácu (ďalšie kolo pravdepodobne v marci 2024)
