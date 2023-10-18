@@ -17,10 +17,15 @@ layout: index
 <!-- [Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) • [Oznamy](Oznamy_október.md) -->
 * **26.10. Rezerva**
 * **2.11. Rezerva / Voľno**
-* **9.11. Prezentácie (aspoň 2)**
-* **16.11. Prezentácie (aspoň 2)**
-* **23.11. Prezentácie (aspoň 2)**
-* **30.11. Prezentácie (aspoň 2)**
-* **7.12. Prezentácie (aspoň 2)**
-* **14.12. Rezerva**
-* Kontrolné stretnutie cez skúškové obdobie
+* **9.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Man, Jankola, Chutňáková, Jaremčuková, Nosko, Koleková
+* **16.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Hamidová, Šoošová, Čerňanský, Oravčok, Kamas, Števaňák
+* **23.11. Seminár nebude**<br>
+* **30.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Antol, Lopaška, Belák, Cingel, Gáborik, Pauer
+* **7.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Burianová, Franček, Daniš, Kobelárová, Kopecká, Štauder
+* **14.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Bezáková, Füleová, Brožová, Caban, Pravdová, Pitoňák
+* Kontrolné stretnutie cez skúškové obdobie<br>
