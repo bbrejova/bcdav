@@ -150,6 +150,9 @@ považujeme za užitočné, alebo ich odporučíte spolužiakom vy.
   - [Table Generator](https://www.tablesgenerator.com/) stránka na
     generovanie LaTeXových tabuliek prekopírovaním tabuľky z
     kancelárskeho softvéru
+  - [TikZ](https://pgf-tikz.github.io/pgf/pgfmanual.pdf) je balíček na
+    kreslenie obrázkov a diagramov v LaTeXu, hodí sa napríklad na grafy (vrcholy, hrany)
+    a konečné automaty
 
 ## Kontrola originality záverečnej práce
 
