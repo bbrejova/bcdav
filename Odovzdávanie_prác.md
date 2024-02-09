@@ -14,14 +14,14 @@ title: Odovzdávanie prác
 
 ## Elektronická verzia práce
 
-  - Odovzdáva sa v systéme AIS do **piatku 24.5.2024 do 23:59**
+  - Odovzdáva sa v systéme AIS určeného termínu
   - Pdf súbor, ktorý sa dá previesť na čistý text
       - prevod na text si môžete otestovať [na stránke
         CRZP](http://testdoc.crzp.sk/?fn=main)
       - Ak nemáte v práci správne diakritiku, skúste si nainštalovať
         balíčky [cm-super](https://www.ctan.org/pkg/cm-super) a
         [cmap](https://www.ctan.org/pkg/cmap); balíček cmap treba aj
-        použiť cez \\usepackage (v ubuntu texlive-latex-recommended a
+        použiť cez `\\usepackage (v ubuntu texlive-latex-recommended a
         cm-super)
   - Má obsahovať nepodpísané zadanie (stiahnite si z AIS, v prípade
     problémov kontaktujte doc. Brejovú)
@@ -119,13 +119,13 @@ knižnici
 BIN:
 
   - Odovzdáva sa na sekretariáte Katedry informatiky u pani Pažickej,
-    M-254 do piatku 26.5.(?), odporúčame prísť v doobednajších hodinách
+    M-254 <!-- do piatku 26.5.(?), odporúčame prísť v doobednajších hodinách -->
   - Ďalšie informácie viď [stránka
     katedry](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
 
 DAV
 
-  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24 do piatku 26.5.(?) alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI
+  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24 <!-- do piatku 26.5.(?) alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI -->
 
 Prineste
 

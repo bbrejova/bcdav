@@ -22,19 +22,18 @@ title: Štúdium v poslednom ročníku
         práci
       - môžete začať študovať predmety súvisiace s vašim plánovaným
         zameraním na magisterskom štúdiu
-      - na druhej strane nie je dobré zapisovať si veľmi veľa povinne
-        voliteľných predmetov z magisterského štúdia Informatika, lebo
-        na magisterskom budete musieť zo zvyšných absolvovať aspoň 70
-        kreditov
 
 ### Iné povinnosti
 
   - Nezabudnite sa do príslušného termínu prihlásiť na štátne skúšky a
     na magisterské štúdium
 
-### Magisterský študijný program Informatika
+### Magisterské štúdium
 
-  - Máte veľa voľnosti, minimum povinných predmetov
+#### Magisterský študijný program Informatika
+
+  - Vhodný pre absolventov DAV aj BIN
+  - Veľa voľnosti, minimum povinných predmetov
   - Päť špecializácií, každá určená štátnou skúškou a cca 6-8
     prerekvizitami:
       - [Počítačová
@@ -48,9 +47,25 @@ title: Štúdium v poslednom ročníku
       - [Dátová
         veda](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-956.html)
 
-  - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_23_24.pdf) sa berie do úvahy študijný
+  - Zameranie štátnic Dátová veda bolo vytvorené špecificky aby dobre nadväzovalo na bakalársky DAV
+  - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_24_25.pdf) sa berie do úvahy študijný
     priemer z povinných a povinne voliteľných predmetov, vrátane štátnic. Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
-  - Oficiálny [študijný plán](./Štúdium_v_poslednom_ročníku.md) na aktuálny školský rok 
+  - Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mINF.html) na aktuálny školský rok 
+
+#### Magisterský študijný program Pravdepodobnosť a matematická štatistika 
+
+- Vhodný pre absolventov DAV
+- Väčší počet povinných predmetov z oblasti pravdepodobnosti, štatistiky a analýzy dát 
+- Bez prijímacích skúšok absolventi DAV ak priemer nie horší ako 2,25 alebo štátne skúšky nie horšie ako 1,7.
+- Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mPMS.html) na aktuálny školský rok
+
+#### Ďalšie potenciálne vhodné magisterské študijné programy
+
+- Magisterský študijný program Genetika na PriFUK (vhodný pre absolventov BIN): [študijný plán](https://sluzby.fmph.uniba.sk/infolist-prif/sk/sp_mB-GE.html)
+- [Ďalšie informácie](https://fns.uniba.sk/magisterske_studium/) o magisterských študijných programoch na PriFUK
+
+- [Magisterské študiiné programy](https://fmph.uniba.sk/studium/magisterske-studium/) Aplikovaná informatika, Kognitívna veda, Počítačová grafika a geometria na FMFI UK (DAV aj BIN)
+
 
 ### Po skončení štúdia
 
@@ -72,7 +87,7 @@ title: Štúdium v poslednom ročníku
 ### Ak sa vám nepodarí skončiť
 
   - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1000 EUR (2023/24)
-    prepočítava s apodľa počtu potrebných kreditov
+    prepočítava sa podľa počtu potrebných kreditov
   - Možnosť požiadať o
     [zníženie](https://zona.fmph.uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_18.pdf)
     (zdravotné dôvody, sociálna situácia, zahraničné pobyty, prerušenie
@@ -84,4 +99,4 @@ title: Štúdium v poslednom ročníku
   - Opravné termíny štátnic a obhajob bývajú koncom augusta.
       - Pozor, podmienkou absolvovania Bakalárskeho seminára (2) bude
         odovzdanie práce, v zásade teda nie je možné odovzdať prácu
-        prvýkrát až pred augustovým termínom
+        prvýkrát až pred augustovým termínom a ukončiť štúdium v tomto roku
