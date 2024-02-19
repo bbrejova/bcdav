@@ -5,6 +5,28 @@ layout: index
 
 ### 1-DAV-921, 1-BIN-921, 1-DAV-922, 1-BIN-922
 
+
+#### Letný semester
+
+* **22.2. Úvod (všetci)**
+* **29.2. Cvičenie k písaniu (všetci)**<br>
+Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br>
+[Oznamy](./Oznamy_február.md)
+* **7.3. Prezentácie**
+* **14.3. Prezentácie**
+* **21.3. Prezentácie**
+* **28.3. Veľká Noc
+* **4.4. Prezentácie**
+* **11.4. Prezentácie**
+* **18.4. Kontrolné stretnutia**
+* **25.4. Kontrolné stretnutia**
+* **2.5. Kontrolné stretnutia** 
+* **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
+* **16.5. Rezerva**
+
+
+#### Zimný semester
+
 * **21.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)
 * **28.9. Predstavovanie tém a školiteľov (všetci)**
@@ -18,14 +40,9 @@ layout: index
 * **26.10. Rezerva**
 * **2.11. Rezerva / Voľno**
 * **9.11. Prezentácie (aspoň 2)**<br>
-Prezentujú Man, Jankola, Chutňáková, Jaremčuková, Nosko, Koleková
 * **16.11. Prezentácie (aspoň 2)**<br>
-Prezentujú Hamidová, Šoošová, Čerňanský, Oravčok, Kamas, Števaňák
 * **23.11. Seminár nebude**<br>
 * **30.11. Prezentácie (aspoň 2)**<br>
-Prezentujú Antol, Lopaška, Belák, Cingel, Gáborik, Pauer
 * **7.12. Prezentácie (aspoň 2)**<br>
-Prezentujú Burianová, Franček, Daniš, Kobelárová, Kopecká, Štauder
 * **14.12. Prezentácie (aspoň 2)**<br>
-Prezentujú Bezáková, Füleová, Brožová, Caban, Pravdová, Pitoňák
 * **Kontrolné stretnutie cez skúškové obdobie**

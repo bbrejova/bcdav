@@ -97,22 +97,22 @@ Tento časový plán prispôsobte vášmu projektu
 ### Bakalárska práca je vaša trvalá vizitka
 
   - Bakalárskej práci venujte väčšiu pozornosť ako bežným školským
-    povinnostiam
-  - Po obhajobe (a prípadnom najviac 3-ročnom odklade) bude zverejnená a
+    povinnostiam.
+  - Po obhajobe (a prípadnom najviac 2-ročnom odklade) bude zverejnená a
     môžu si ju pozrieť napr. vaši budúci zamestnávatelia. Asi ste
     zachytili niekoľko škandálov so záverečnými prácami politikov.
   - Ak máte školiteľa mimo fakulty, svojou prácou budujete aj obraz
     fakulty a môžete ovplyvniť to, ako bude daná inštitúcia ochotná
-    školiť alebo zamestnávať ďalších študentov a absolventov
+    školiť alebo zamestnávať ďalších študentov a absolventov.
   - Vážte si čas, ktorý vám školitelia poskytujú a dodržte minimálne
     tieto zásady
       - Potenciálnych školiteľov, s ktorými ste sa rozprávali,
-        informujte, ak sa napokon rozhodnete pracovať u iného školiteľa
+        informujte, ak sa napokon rozhodnete pracovať u iného školiteľa.
       - Informujte školiteľa, ak kvôli nejakým problémom musíte na
         nejaký čas prerušiť prácu na bakalárskej práci alebo ak sa
-        rozhodnete prácu dokončiť až v ďalšom roku
+        rozhodnete prácu dokončiť až v ďalšom roku.
       - Na stretnutia so školiteľom choďte pripravení, majte prichystané
         relevantné materiály, otázky, ktoré sa chcete spýtať a podobne.
         Robte si poznámky z diskusie so školiteľom.
       - Ak nemôžete prísť na dohodnuté stretnutie, ospravedlňte sa,
-        pokiaľ možno vopred
+        pokiaľ možno vopred.
