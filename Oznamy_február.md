@@ -1,7 +1,7 @@
 ### Osnova
 
 - Oznamy
-- [Letný semester, pravidlá](./Letný_semester,_pravidlá.md)
+- [Letný semester, pravidlá](./Pravidlá_LS.md)
 - [DÚ2](./DÚ2.md), [Komentáre](./Komentáre.md), [Prezentácia 2](./Prezentácia_2.md),
   [Kontrolné stretnutie 2](./Kontrolné_stretnutie_2.md)
 - Dôležité termíny, harmonogram

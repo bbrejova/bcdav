@@ -8,10 +8,10 @@ layout: index
 
 #### Letný semester
 
-* **22.2. Úvod (všetci)**
-* **29.2. Cvičenie k písaniu (všetci)**<br>
-Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br>
+* **22.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
+* **29.2. Cvičenie k písaniu (všetci)**<br>
+Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
 * **7.3. Prezentácie**
 * **14.3. Prezentácie**
 * **21.3. Prezentácie**

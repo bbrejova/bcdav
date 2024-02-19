@@ -1,5 +1,5 @@
 ---
-title: Prezentácia 2
+title: Prezentácia 3
 ---
 
 40% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103692) najneskôr

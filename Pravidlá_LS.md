@@ -16,8 +16,7 @@ podmienky:
 
 Ak niektorú z podmienok nesplníte, budete hodnotení známkou Fx.
 
-V prípade úspešného absolvovania predmetu získate známku podľa bodov v
-celkovom hodnotení takto:
+V prípade úspešného absolvovania predmetu získate známku podľa bodov v celkovom hodnotení takto:
 
   -   
     A: 90% a viac, B:80...89%, C: 70...79%, D: 60...69%, E: 50...59%
@@ -32,25 +31,23 @@ V hodnotení majú jednotlivé zložky nasledujúcu váhu:
 
 ## Účasť
 
-  - Počas semestra bude niekoľko vyučovacích hodín označených ako pre
-    všetkých a niekoľko pre konkrétne skupiny študentov.
-  - Je potrebné sa aktívne zúčastniť na všetkých spoločných hodinách a
-    všetkých hodinách pre vašu skupinu.
+  - Počas semestra bude niekoľko vyučovacích hodín označených ako pre všetkých a niekoľko pre konkrétne skupiny študentov.
+  - Je potrebné sa aktívne zúčastniť na všetkých spoločných hodinách a všetkých hodinách pre vašu skupinu.
   - Nácvik obhajob s povinnou účasťou bude cez skúškové obdobie.
   - Ak sa nezúčastníte niektorého seminára označeného kódom "všetci"
       - Ak ste mali na to závažné dôvody (napr. zdravotné), ospravedlňte
-        sa z neúčasti čím skôr emailom B.Brejovej
+        sa z neúčasti čím skôr emailom B.Brejovej.
       - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa
-        pravidiel nižšie
+        pravidiel nižšie.
   - Aktívnu účasť na prezentáciách a kontrolnom stretnutí nie je možné
-    nahradzovať aktivitami nižšie
+    nahradzovať aktivitami nižšie.
   - V prípade neúčasti si samostatne preštudujte poznámky z vymeškanej
-    hodiny na stránke predmetu
+    hodiny na stránke predmetu.
 
 Aktivity na nahradzovanie neúčasti
 
   - Prvá neúčasť: okrem svojej skupiny nácviku obhajob sa zúčastníte
-    ešte aspoň jednej ďalšej
+    ešte aspoň jednej ďalšej.
   - Druhá neúčasť: v rámci nácviku obhajob si vyberte jedného zo
     spolužiakov, počas jeho prezentácie si robte poznámky a po
     prezentácii mu poskytnite dôkladnú písomnú spätnú väzbu k jeho
@@ -70,7 +67,7 @@ práce s inými predmetmi.
   - Budúci týždeň máme cvičenie k písaniu.
   - Na **[DÚ2](./DÚ2.md)** budete odovzdávať rozšírenú verziu DÚ1
     zo zimného semestra. Následne budete čítať práce dvoch spolužiakov a
-    písať k nim **[komentáre](./Komentáre,_DAV.md)**.
+    písať k nim **[komentáre](./Komentáre.md)**.
   - Na **[prezentácii 2](./Prezentácia_2.md)** budete prezentovať
     prehľad už hotových častí práce a časový plán na jej dokončenie.
   - Neskôr bude ešte **[kontrolné stretnutie
