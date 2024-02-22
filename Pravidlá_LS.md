@@ -71,7 +71,7 @@ práce s inými predmetmi.
   - Na **[prezentácii 2](./Prezentácia_2.md)** budete prezentovať
     prehľad už hotových častí práce a časový plán na jej dokončenie.
   - Neskôr bude ešte **[kontrolné stretnutie
-    2](./Kontrolné_stretnutie_2.md)** s podobnou náplňou ako
+    2](./Kontrolné_stretnutie_2.html)** s podobnou náplňou ako
     prezentácia 2. Môžeme vám nariadiť aj účasť na ešte jednom kole
     kontrolného stretnutia, ak máme pocit, že by pre vašu prácu bolo
     prospešné.
