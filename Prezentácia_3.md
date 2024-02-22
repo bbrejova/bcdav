@@ -24,5 +24,5 @@ a odpovedá na otázky z publika.
     prosím vedieť.
   - Ak zo závažných príčin nemôžete na vašu prezentáciu prísť, tiež nám
     dajte vedieť čím skôr.
-  - Rady k príprave prezentácie [v
-    návode](./Obhajoba,_prezentácia_vlastných_výsledkov.md)
+  - Rady k príprave prezentácie sú [v
+    návode](./Obhajoba,_prezentácia_vlastných_výsledkov.html).
