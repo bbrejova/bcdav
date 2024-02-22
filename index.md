@@ -17,8 +17,8 @@ Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 �
 * **21.3. Prezentácie**
 * **28.3.** Veľká Noc
 * **4.4. Prezentácie**
-* **11.4. Prezentácie**
-* **18.4. Kontrolné stretnutia**
+* **11.4. Prezentácie / Kontrolné stretnutia**
+* **18.4.** Študentská vedecká konferencia
 * **25.4. Kontrolné stretnutia**
 * **2.5. Kontrolné stretnutia** 
 * **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
