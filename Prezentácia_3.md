@@ -15,14 +15,14 @@ a odpovedá na otázky z publika.
     2-2,5 hodiny), príďte načas
   - 15 minút prezentácia, potom otázky, komentáre k prezentácii
   - Ak máte špeciálne požiadavky, prineste si notebook (ale odovzdajte
-    aj pdf)
+    aj pdf).
   - Nácvik bude pre vás užitočný, len ak prídete s dobre pripravenou
-    prezentáciou
+    prezentáciou.
   - Po skončení prezentácií v skupine budeme uzatvárať známky zo
-    seminára
+    seminára.
   - Ak neplánujete na prezentáciu prísť (nekončíte štúdium), dajte nám
-    prosím vedieť
+    prosím vedieť.
   - Ak zo závažných príčin nemôžete na vašu prezentáciu prísť, tiež nám
-    dajte vedieť čím skôr
+    dajte vedieť čím skôr.
   - Rady k príprave prezentácie [v
-    návode](./Obhajoba,_prezent%C3%A1cia_vlastn%C3%BDch_v%C3%BDsledkov.md)
+    návode](./Obhajoba,_prezentácia_vlastných_výsledkov.md)

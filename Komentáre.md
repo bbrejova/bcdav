@@ -1,3 +1,8 @@
+---
+title: Komentáre k DÚ2
+---
+
+
 10% známky, odovzdanie v systéme Moodle v [rovnakej
 položke](https://moodle.uniba.sk/mod/workshop/view.php?id=103693) ako
 DÚ2.

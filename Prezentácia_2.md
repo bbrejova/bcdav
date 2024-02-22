@@ -5,8 +5,6 @@ title: Prezentácia 2
 10% známky, pdf prezentácie odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103690) najneskôr hodinu pred
 začiatkom seminára, na ktorom budete prezentovať. Odovzdané pdf nahráme
 na počítač, z ktorého budete prezentovať. 
-<!-->
-[Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64196) -->
 
 Hlavným cieľom tejto prezentácie je, aby ste sa zamysleli nad stavom
 svojej práce a nad plánmi na jej dokončenie. Pripravte si prezentáciu s
@@ -24,12 +22,12 @@ V prezentácii teda uveďte nasledovné:
     literatúru ste naštudovali, aké nástroje/knižnice ste si
     nainštalovali a naučili sa používať, či máte rozmyslený návrh
     systému, aké časti softvéru už máte implementované, aké časti textu
-    máte napísané atď)
+    máte napísané atď).
   - Časový plán na dokončenie práce: rozmyslite si, čo ešte treba
     spraviť a rozplánujte si prácu na niekoľko etáp (každá v trvaní cca
-    2 týždne)
+    2 týždne).
   - Problémy a výzvy: čo na vašej téme je pre vás najťažšie, prípadne či
-    máte nejaké problémy, ktoré momentálne neviete riešiť
+    máte nejaké problémy, ktoré momentálne neviete riešiť.
 
 Prezentácia by mala trvať najviac 5 minút a mala by sa venovať iba
 vyššie uvedeným bodom. Nie je potrebné vysvetľovať detaily vašej témy,
