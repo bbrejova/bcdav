@@ -7,7 +7,7 @@ title: Štúdium v poslednom ročníku
   - Pri zápise si skontrolujte, či spolu so zapísanými predmetmi máte
     splnené požiadavky na ukončenie štúdia (stáva sa, že tesne pred
     štátnicou sa zistí, že študentovi chýbajú kredity)
-      - celkovo aspoň 180 kreditov
+      - celkovo aspoň 180 kreditov (240 pre konverzné programy)
       - všetky povinné predmety (vrátane angličtiny a telocviku)
       - splnené podmienky na povinne voliteľné predmety
       - zapíšte si aj predmety štátnej skúšky
