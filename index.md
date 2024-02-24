@@ -12,12 +12,17 @@ layout: index
 [Oznamy](./Oznamy_február.md)
 * **29.2. Cvičenie k písaniu (všetci)**<br>
 Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
-* **7.3. Prezentácie**
-* **14.3. Prezentácie**
-* **21.3. Prezentácie**
+* **7.3. Prezentácie**<br>
+Prezentujú Kopecká, Gogová, Zivák, Novotná, Rohaľ, Balogh
+* **14.3. Prezentácie**<br>
+Prezentujú Koleková, Bezáková, Pravdová, Füleová, Kobelárová, Caban, Brožová
+* **21.3. Prezentácie**<br>
+Prezentujú Chutňáková, Jaremčuková, Man, Hamidová, Šoošová, Čerňanský, Oravčok
 * **28.3.** Veľká Noc
-* **4.4. Prezentácie**
-* **11.4. Prezentácie / Kontrolné stretnutia**
+* **4.4. Prezentácie**<br>
+Prezentujú Antol, Lopaška, Kamas, Štauder, Pitoňák, Franček, Števaňák
+* **11.4. Prezentácie / Kontrolné stretnutia**<br>
+Prezentujú Jankola, Belák, Nosko, Pauer, Cingel, Gáborik
 * **18.4.** Študentská vedecká konferencia
 * **25.4. Kontrolné stretnutia**
 * **2.5. Kontrolné stretnutia** 
