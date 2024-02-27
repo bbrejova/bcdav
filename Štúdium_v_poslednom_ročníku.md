@@ -50,7 +50,8 @@ title: Štúdium v poslednom ročníku
   - Zameranie štátnic Dátová veda bolo vytvorené špecificky aby dobre nadväzovalo na bakalársky DAV
   - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_24_25.pdf) sa berie do úvahy študijný
     priemer z povinných a povinne voliteľných predmetov, vrátane štátnic. Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
-  - Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mINF.html) na aktuálny školský rok 
+  - Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mINF.html) na aktuálny školský rok
+  - Odporúčané [povinne voliteľné predmety](https://docs.google.com/spreadsheets/d/1F4uc-eOf6Jsy35-j7jSQ2FaNgckEc8JwvEAtE5SPp-U/edit?usp=sharing) pre absolventov DAV
 
 #### Magisterský študijný program Pravdepodobnosť a matematická štatistika 
 
