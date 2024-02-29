@@ -11,7 +11,8 @@ layout: index
 * **22.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
 * **29.2. Cvičenie k písaniu (všetci)**<br>
-Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.
+Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br>
+[Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544)
 * **7.3. Prezentácie**<br>
 Prezentujú Kopecká, Gogová, Zivák, Novotná, Rohaľ, Balogh
 * **14.3. Prezentácie**<br>
