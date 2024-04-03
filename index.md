@@ -18,15 +18,23 @@ Prezentujú Kopecká, Gogová, Zivák, Novotná, Rohaľ, Balogh
 * **14.3. Prezentácie**<br>
 Prezentujú Koleková, Bezáková, Pravdová, Füleová, Kobelárová, Caban, Brožová
 * **21.3. Prezentácie**<br>
-Prezentujú Chutňáková, Jaremčuková, Man, Hamidová, Šoošová, Čerňanský, Oravčok
+Prezentujú Chutňáková, Jaremčuková, Man, Hamidová, Šoošová, Čerňanský
 * **28.3.** Veľká Noc
 * **4.4. Prezentácie**<br>
 Prezentujú Antol, Lopaška, Kamas, Štauder, Pitoňák, Franček, Števaňák
 * **11.4. Prezentácie / Kontrolné stretnutia**<br>
-Prezentujú Jankola, Belák, Nosko, Pauer, Cingel, Gáborik
-* **18.4.** Študentská vedecká konferencia
-* **25.4. Kontrolné stretnutia**
-* **2.5. Kontrolné stretnutia** 
+Prezentujú Jankola, Belák, Nosko, Pauer, Cingel, Gáborik<br>
+Kontrolné stretnutia:<br>
+TV: 13:10 Novotná, Rohaľ<br>
+BB: 13:10 Kopecká, Gogová, Zivák
+* **18.4.** Študentská vedecká konferencia<br>
+16.4. Kontrolné stretnutia MS Teams<br>
+17:00 Bezáková, Čerňanský | 17:20 Füleová, Koleková
+* **25.4. Kontrolné stretnutia**<br>
+TV: 12:20 Kobelárová, Pravdová, Chutňáková | 12:50 Jaremčuková, Hamidová | 13:10 Antol, Kamas<br>
+BB: 12:20 Brožová, Caban, Man | 12:50 Šoošová, Lopaška | 13:10 Štauder, Franček, Pitoňák
+* **2.5. Kontrolné stretnutia**<br>
+BB: 12:20 Števaňák, Jankola, Belák | 12:50  Cingel, Gáborik | 13:10 Pauer, Nosko
 * **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
 * **16.5.** Rezerva
 
