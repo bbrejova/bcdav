@@ -25,8 +25,8 @@ Prezentujú Antol, Lopaška, Kamas, Štauder, Pitoňák, Franček, Števaňák
 * **11.4. Prezentácie / Kontrolné stretnutia**<br>
 Prezentujú Jankola, Belák, Nosko, Pauer, Cingel, Gáborik<br>
 Kontrolné stretnutia:<br>
-TV: 13:10 Novotná, Rohaľ<br>
-BB: 13:10 Kopecká, Gogová, Zivák
+TV: 13:20 Novotná, Rohaľ<br>
+BB: 13:20 Kopecká, Gogová, Zivák
 * **18.4.** Študentská vedecká konferencia<br>
 16.4. Kontrolné stretnutia MS Teams<br>
 17:00 Bezáková, Čerňanský | 17:20 Füleová, Koleková
