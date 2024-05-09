@@ -21,7 +21,7 @@ title: Odovzdávanie prác
       - Ak nemáte v práci správne diakritiku, skúste si nainštalovať
         balíčky [cm-super](https://www.ctan.org/pkg/cm-super) a
         [cmap](https://www.ctan.org/pkg/cmap); balíček cmap treba aj
-        použiť cez `\\usepackage (v ubuntu texlive-latex-recommended a
+        použiť cez `\usepackage` (v ubuntu texlive-latex-recommended a
         cm-super)
   - Má obsahovať nepodpísané zadanie (stiahnite si z AIS, v prípade
     problémov kontaktujte doc. Brejovú)

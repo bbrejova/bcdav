@@ -9,10 +9,10 @@ title: Obhajoba, prezentácia vlastných výsledkov
   - Obhajoba je verejná, môže prísť hocikto
   - Vhodné je na štátnice a obhajoby prísť v obleku alebo zodpovedajúcom
     dámskom odeve
-  - Presný harmonogram obhajob nie je vždy vopred známy. Preto ak váš
+<!--  - Presný harmonogram obhajob nie je vždy vopred známy. Preto ak váš
     školiteľ chce prísť na obhajobu, môžete sa vopred dohodnúť, že mu
     pošlete správu o očakávanom čase vašej prezentácie, keď sa bude
-    blížiť jej začiatok
+    blížiť jej začiatok -->
 
 Priebeh
 
@@ -194,7 +194,7 @@ Nemajte v prezentácii príliš veľa "preklikávania"
   - Ak používate vlastný počítač, skúste si ho vopred niekde zapojiť do
     projektoru, aby ste sa naučili, ako to funguje. Overte si, že máte
     správny typ grafického výstupu. Ako zálohu odovzdajte aj prezentáciu
-    cez Moodle (DAV+BIN).
+    cez Moodle.
 
 ## Ústny prejav
 
