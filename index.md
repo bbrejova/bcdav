@@ -14,29 +14,19 @@ layout: index
 Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br>
 [Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544)
 * **7.3. Prezentácie**<br>
-Prezentujú Kopecká, Gogová, Zivák, Novotná, Rohaľ, Balogh
 * **14.3. Prezentácie**<br>
-Prezentujú Koleková, Bezáková, Pravdová, Füleová, Kobelárová, Caban, Brožová
 * **21.3. Prezentácie**<br>
-Prezentujú Chutňáková, Jaremčuková, Man, Hamidová, Šoošová, Čerňanský
 * **28.3.** Veľká Noc
 * **4.4. Prezentácie**<br>
-Prezentujú Antol, Lopaška, Kamas, Štauder, Pitoňák, Franček, Števaňák
 * **11.4. Prezentácie / Kontrolné stretnutia**<br>
-Prezentujú Jankola, Belák, Nosko, Pauer, Cingel, Gáborik<br>
-Kontrolné stretnutia:<br>
-TV: 13:20 Kopecká, Novotná<br>
-BB: 13:20 Zivák
 * **18.4.** Študentská vedecká konferencia<br>
-16.4. Kontrolné stretnutia MS Teams<br>
-17:00 Bezáková, Čerňanský | 17:20 Füleová, Koleková, | 17:40 Rohaľ, Gogová
+16.4. Kontrolné stretnutia MS Teams
 * **25.4. Kontrolné stretnutia**<br>
-TV: 12:20 Kobelárová, Pravdová, Chutňáková | 12:50 Jaremčuková, Hamidová | 13:10 Antol, Kamas<br>
-BB: 12:20 Brožová, Caban, Man | 12:50 Šoošová, Lopaška | 13:10 Štauder, Franček, Pitoňák
 * **2.5. Kontrolné stretnutia**<br>
-BB: 12:20 Števaňák, Jankola, Belák | 12:50  Cingel, Gáborik | 13:10 Pauer, Nosko
-* **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**
+* **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<br>
+[Oznamy](./Oznamy_máj.md)
 * **16.5.** Rezerva
+* V skúškovom období nácvik obhajob, predbežne 6.,7.,10.,11. júna
 
 
 #### Zimný semester
