@@ -26,3 +26,12 @@ a odpovedá na otázky z publika.
     dajte vedieť čím skôr.
   - Rady k príprave prezentácie sú [v
     návode](./Obhajoba,_prezentácia_vlastných_výsledkov.html).
+
+## Rozpis prezentácií
+
+* 6.6. 9:00 Antol, Lopaška, Chutňáková, Jaremčuková, Man, Rohaľ
+* 6.6. 13:30 Cingel, Kamas, Štauder, Gáborik, Pauer
+* 10.6. 9:00 Kobelárová, Brožová, Caban, Jankola, Belák
+* 10.6. 13:30 Bezáková, Füleová, Pravdová, Nosko, Kopecká
+* 11.6. 9:00 Novotná, Čerňanský, Hamidová, Šoošová, Koleková
+* 11.6. 13:30 Franček, Gogová, Pitoňák, Števaňák, Zivák
