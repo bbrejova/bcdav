@@ -26,7 +26,7 @@ Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 �
 * **9.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<br>
 [Oznamy](./Oznamy_máj.md)
 * **16.5.** Rezerva
-* V skúškovom období nácvik obhajob, predbežne 6.,7.,10.,11. júna
+* V skúškovom období 6.,10.,11. júna [nácvik obhajob](./Prezentácia_3.html)
 
 
 #### Zimný semester
