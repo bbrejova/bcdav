@@ -50,7 +50,7 @@ title: Príklady prác na študijnom programe dátová veda
 * Sabína Samporová (AIN, 2022) [Experimentálne prostredie pre skúmanie interakcie človeka s humanoidným robotom iCub](https://opac.crzp.sk/?fn=detailBiblioForm&sid=85CE14C1EED0152B7934DD9735B2)  (školiteľ Igor Farkaš)
 * Tomáš Starek (EFM, 2021) [Modelovanie šírenia SARS-CoV-2 vo viacerých interagujúcich krajinách](https://opac.crzp.sk/?fn=detailBiblioForm&sid=7E417B54B864B7C4532AF64635AB)
 * Patricia Svitková (EFM) [Detekovanie komunít v sociálnych sieťach](https://opac.crzp.sk/?fn=detailBiblioForm&sid=E7FF18FD4FFD5019DAFCEC3CC38C)
-* Dana škorvánková (AIN) [Capturing of Movement During Music Performance](https://opac.crzp.sk/?fn=detailBiblioForm&sid=233ADDCA5EB56A100CE93831D49A)
+* Dana Škorvánková (AIN) [Capturing of Movement During Music Performance](https://opac.crzp.sk/?fn=detailBiblioForm&sid=233ADDCA5EB56A100CE93831D49A)
 * Michal Šturc (FYZ) [Opinion formation in networks with global opinion splitting and coalescence](https://opac.crzp.sk/?fn=detailBiblioForm&sid=DD9282570EFDEA065F7CAAAC0787)
 * Ivana Švajnerová (EFM) [Efektivita používania mincí medzi spotrebiteľmi](https://opac.crzp.sk/?fn=detailBiblioForm&sid=8ED2C2B0C8CAA517F9680285FDCF)
 * Róbert Tóth (EFM, 2013) [Theilova regresia](https://opac.crzp.sk/?fn=detailBiblioForm&sid=B4445163FE48F42C5957E84577B7) (školiteľ Ján Somorčík)
