@@ -35,8 +35,8 @@ byť napríklad:
     potreby vedeckého výskumu;** práca by mala obsahovať aj porovnanie
     vytvorenej aplikácie s inými podobnými aplikáciami, ak je to pre
     danú problematiku relevantné
-  - porovnanie dvoch alebo viacerých metód/algoritmov na analýzu dát,
-    spravidla v kontexte konkrétnej aplikácie; predpokladá sa, že autor
+  - **porovnanie dvoch alebo viacerých metód/algoritmov na analýzu dát,
+    spravidla v kontexte konkrétnej aplikácie**; predpokladá sa, že autor
     bakalárskej práce v rámci práce demonštruje, že rozumie princípom
     porovnávaných metód / algoritmov
   - **vytvorenie prehľadu problematiky relevantnej pre študijný program,
@@ -70,6 +70,12 @@ V každom prípade je dôležitá samotná písomná práca, v ktorej popíšete
 existujúce výsledky v danej oblasti a prezentujete svoje výsledky
 
   - Rozsah cca 30 strán textu v odbornom štýle
+
+
+### Príklady prác z minulých rokov
+   - [Program bioinformatika](Príklady_BIN.html)
+   - [Program dátová veda](Príklady_DAV.html)
+
 
 ### Možní školitelia
 
