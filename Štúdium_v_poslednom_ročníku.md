@@ -87,10 +87,10 @@ title: Štúdium v poslednom ročníku
 
 ### Ak sa vám nepodarí skončiť
 
-  - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1000 EUR (2023/24)
+  - [Školné](https://zona.fmph.uniba.sk/studenti-a-studium/poplatky/) pri prekročení štandardnej dĺžky štúdia 1500 EUR (2024/25)
     prepočítava sa podľa počtu potrebných kreditov
   - Možnosť požiadať o
-    [zníženie](https://zona.fmph.uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_18.pdf)
+    [zníženie](https://zona.fmph.uniba.sk/fileadmin/ruk/legislativa/2024/VP_2024_26.pdf)
     (zdravotné dôvody, sociálna situácia, zahraničné pobyty, prerušenie
     štúdia a pod.)
   - Ak vám hrozí predlžovanie štúdia, poraďte sa na študijnom oddelení o

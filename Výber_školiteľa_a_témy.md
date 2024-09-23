@@ -97,9 +97,9 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
         šancu robiť niečo, čo vás baví, ale možno vás neuživí.
   - Zistite, akí školitelia pôsobia vo zvolenej oblasti
       - Vyučujúci predmetov v tejto oblasti
-      - [Príklady bakalárskych prác z minulosti](./Školitelia.html)
       - Šḱolitelia prác z podobnej oblasti na [študentskej vedeckej konferencii](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
       - Môžete sa pozrieť, kto v minulosti školil práce v podobnej oblasti
+          - Napríklad v príkladoch prác z [BIN](Príklady_BIN.html) a [DAV](Priklady_DAV.html)
           - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](http://alis.uniba.sk:8088/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
             zadajte ako žáner bakalárske práce a ako predmet napríklad
             Informatika alebo Matematika, zotrieďte podľa roku vydania
@@ -119,7 +119,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
     tam ako študenta
       - Treba zadať názov a cieľ práce (názov v slovenskom aj anglickom
         jazyku) a zvoliť aj jazyk, v akom bude práca písaná
-  - Garanti (doc. Vinař, doc. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schváli (ak je zadanie vhodné)
+  - Garanti (doc. Vinař, doc. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schvália (ak je zadanie vhodné)
   - Téma by mala byť v AIS aj schválená do 31.10. Mali by ste si preto
     tému nájsť v dostatočnom predstihu, aby školiteľ a garant mali čas
     vybaviť túto administratívu
