@@ -74,7 +74,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
 
 ### Príklady prác z minulých rokov
    - [Program bioinformatika](Príklady_BIN.html)
-   - [Program dátová veda](Príklady_DAV.html)
+   - [Program dátová veda](Priklady_DAV.html)
 
 
 ### Možní školitelia
