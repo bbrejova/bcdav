@@ -237,4 +237,4 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
 
 - Prípadné použitie týchto nástrojov uveďte v poďakovaní, vrátane podrobností, na čo ste ich využili.
 - Vo výnimočných prípadoch môžete výstup takéhoto nástroja použiť ako riadne označený citát.
-- Príklady nájdete v [prílohe semrnice](https://uniba.sk/fileadmin/ruk/ovv/2024/Odporucane_sposoby_citovania_vystupov_alebo_pouzitia_generativnej_umelej_inteligencie_na_Univerzite_Komenskeho_v_Bratislave1.pdf)).
+- Príklady nájdete v [prílohe smernice](https://uniba.sk/fileadmin/ruk/ovv/2024/Odporucane_sposoby_citovania_vystupov_alebo_pouzitia_generativnej_umelej_inteligencie_na_Univerzite_Komenskeho_v_Bratislave1.pdf).
