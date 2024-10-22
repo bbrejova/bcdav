@@ -1,9 +1,8 @@
 ---
-title: Oznamy 19.10.2023
+title: Oznamy 22.10.2024
 ---
 
-**Dnes:** rozpis prezentácií, pokyny k prezentáciám, domáca úloha, LaTeX
-pre diplomovú prácu, kontrolné stretnutie
+**Dnes:** pokyny k prezentáciám, nájdené témy, písomná práca
 
 **Zadania**
 
@@ -13,8 +12,9 @@ pre diplomovú prácu, kontrolné stretnutie
 
 **Čo nás čaká na seminári**
 
+  - Budúci týždeň práca s literatúrou, viac o písaní práce
   - V novembri a decembri **prezentácie**
-      - Rozpis prezentácií je na stránke.
+      - Rozpis prezentácií bude na stránke.
       - Prezentovať musíte na vám pridelenom termíne. Prípadné zmeny
         termínu len po dohode s vyučujúcimi.
       - Celkovo treba prísť aspoň na **dva** semináre s prezentáciami
@@ -23,7 +23,7 @@ pre diplomovú prácu, kontrolné stretnutie
         rezervu pre prípad, že nebudete môcť prísť napr. kvôli chorobe a
         pod.
       - Uvítame aktívnu účasť, zapojte sa do diskusie
-  - Termín **DÚ1** 11.12. 22:00
+  - Termín **DÚ1** 16.12. 22:00 (viac budúci týždeň)
   - Cez skúškové bude **kontrolné stretnutie** s vyučujúcimi
 
 **Pracujte na bakalárke**
@@ -36,7 +36,7 @@ pre diplomovú prácu, kontrolné stretnutie
 
 **Iné**
 
-  - Do 24.10.2023
+  - Do 21.10.2024 boli
     [žiadosti](https://zona.fmph.uniba.sk/fileadmin/fmfi/fakulta/tlaciva/ziadost_JMS-SK.pdf)
     o mimoriadne štipendium v prípade mimoriadnych materiálnych nárokov
-    na bakalársku prácu (ďalšie kolo pravdepodobne v marci 2024)
+    na bakalársku prácu (ďalšie kolo pravdepodobne v marci 2025)
