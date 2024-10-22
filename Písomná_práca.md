@@ -25,7 +25,7 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
     smernici
   - **Titulný list** - podobný na prednú stranu obalu, opäť detaily v
     smernici
-      - Uvádza sa "školiace pracovisko:
+      - Uvádza sa "školiace pracovisko":
           - Ak je školiteľ z FMFI, uvádzate katedru školiteľa, zrejme by
             mala byť aj na zadaní z AIS2
           - Ak máte externého školiteľa, uvádzajte katedru garanta podľa
@@ -35,7 +35,7 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
             Matematika
           - Študijný program: Bioinformatika, Študijný odbor:
             Informatika a Biológia
-  - **Zadanie** z AIS - stiahnuť ako pdf
+  - **Zadanie** z AIS - stiahnuť ako pdf, pri anglických prácach vložte slovenskú aj anglickú verziu
   - **Poďakovanie** (nepovinné)
       - Môžete poďakovať školiteľovi, prípadne ďalším osobám, ktoré vám
         pri práci nejako pomohli, poradili, poskytli dáta a pod.
@@ -47,6 +47,9 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
       - Abstrakt sa zvykne zverejňovať aj samostatne, nepoužívajte preto
         skratky a označenie zavedené v práci.
       - V abstrakte uveďte aj 3-5 kľúčových slov.
+  - **Predhovor**
+      - Všeobecná informácia o práci, okolnosti jej vzniku, môže obsahovať
+        poďakovanie. Na našej fakulte sa nezvykol uvádzať, smernica ho spomína.
   - **Obsah**
       - Pokiaľ možno generovaný automaticky
   - **Zoznamy** tabuliek, obrázkov, použitých skratiek (nepovinné)
@@ -219,15 +222,19 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
     odkiaľ pochádza.
   - Takisto ak preberáte cudzie obrázky alebo tabuľky, uveďte zdroj.
       - Pozor na autorské práva, používate iba obrázky s vhodnou
-        otvorenou licenciou
+        otvorenou licenciou.
   - Pri prehľade literatúry si robte poznámky a potom spíšte text
     vlastnými slovami. Neodpisujte resp. neprekladajte mechanicky celé
     kusy textu z iných zdrojov.
 
 ## Použitie umelej inteligencie pri písaní textu
 
-- Na fakulte zatiaľ nemáme špecifické pravidlá týkajúce sa použitia nástrojov umelej inteligencie.
-- Používajte ich s mierou. Ak si dáte písať celé kusy textu, je to podobný podvod, ako keby ste dali prácu písať inej osobe.
-- Prípadné použitie týchto nástrojov uveďte v poďakovaní, vrátane podrobností, na čo ste ich využili.
-- Malo by byť akceptovateľné využiť ich na kontrolu pravopisu a drobné štylistické úpravy, avšak dobre si skontrolujte, či nemenia význam vášho textu.
+- Univerzita má na tento účel [smernicu](https://uniba.sk/fileadmin/ruk/ovv/2024/smernica_rektora_AI.pdf).
+- Používajte ich s mierou. Ak si dáte písať celé kusy textu, je to podobný podvod, ako keby ste dali prácu písať inej osobe. Takisto  ich nemáte nechať formulovať závery a tvrdenia, ktoré majú byť vašim výsledkom.
+- Je akceptovateľné využiť ich na kontrolu pravopisu a drobné štylistické úpravy, avšak dobre si skontrolujte, či nemenia význam vášho textu.
 - Môžu vám pomôcť sa zorientovať v problematike, ale všetky fakty si overte aj v nezávislých a dôveryhodných zdrojoch.
+
+
+- Prípadné použitie týchto nástrojov uveďte v poďakovaní, vrátane podrobností, na čo ste ich využili.
+- Vo výnimočných prípadoch môžete výstup takéhoto nástroja použiť ako riadne označený citát.
+- Príklady nájdete v [prílohe semrnice](https://uniba.sk/fileadmin/ruk/ovv/2024/Odporucane_sposoby_citovania_vystupov_alebo_pouzitia_generativnej_umelej_inteligencie_na_Univerzite_Komenskeho_v_Bratislave1.pdf)).
