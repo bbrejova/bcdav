@@ -38,7 +38,7 @@ Pozor, dôležité je posúdiť dôveryhodnosť zdroja
   - Zastrešuje daný zdroj nejaká profesná organizácia, prestížna
     univerzita a pod.?
   - Školiteľ vám môže odporučiť dôveryhodné zdroje v danej oblasti
-  - Pozor, Wikipédia (hlavne anglická verzia) je obľúbená encyklopédia s
+  - Wikipédia (hlavne anglická verzia) je obľúbená encyklopédia s
     veľkým množstvom obsahu na rôzne témy, ale môže ju editovať hocikto
     a napísať tam hocičo. Preto je potrebné si údaje z Wikipédie overiť
     aj inde. Je to však dobrý zdroj na prvotnú orientáciu a na získanie
@@ -47,22 +47,22 @@ Pozor, dôležité je posúdiť dôveryhodnosť zdroja
 ## Hľadanie zdrojov
 
   - Google, prípadne iné internetové vyhľadávače
-  - Google scholar <http://scholar.google.com/>
+  - Google scholar <https://scholar.google.com/>
       - špecializovaný vyhľadávač na vedecké články, knihy, dizertačné
         práce, technické správy a pod.
       - vie formátovať referencie v niekoľkých formátoch (napr. BibTeX)
       - vie pre článok vyhľadať, ktoré iné práce ho citujú
       - viac citované práce bývajú významnejšie
-  - DBLP bibliographies
-    <http://www.informatik.uni-trier.de/~ley/db/index.html>
-      - databáza informatických vedeckých konferencií a časopisov
-      - vie formátovať referencie pre BibTeX
   - Databázy Scopus a Web of Science
       - platené databázy vedeckých článkov prístupné z univerzitnej
         siete alebo cez proxy
       - menej pohodlné používanie ako Google Scholar, niekedy presnejšie
         údaje
       - tiež sa dá zistiť, aké iné práce ktorú prácu citujú
+  - DBLP bibliographies
+    <https://www.informatik.uni-trier.de/~ley/db/index.html>
+      - databáza informatických vedeckých konferencií a časopisov
+      - vie formátovať referencie pre BibTeX
 
 Ak ste našli jednu publikáciu relevantnú pre vašu prácu, ďalšie vhodné
 zdroje môžete nájsť pomocou citácií
@@ -92,7 +92,7 @@ zdroje môžete nájsť pomocou citácií
   - Použite jednotné formátovanie podľa niektorého zaužívaného štýlu
     (niektorý zo štandardných štýlov v LaTeXu príp. podľa normy ISO 690)
       - Príklady formátovania podľa ISO normy
-        <http://stella.uniba.sk/texty/690-2010_priklady.pdf>
+        <https://stella.uniba.sk/texty/690-2010_priklady.pdf>
 
 Príklady záznamov pre rôzne typy publikácií (konkrétne formátovanie,
 poradie položiek a pod. sa líši podľa použitého štýlu, malo by však byť
@@ -115,8 +115,7 @@ konzistentné v celom zozname literatúry)
     ďalšie detaily.
       - *Daniel D. Sleator and Robert Endre Tarjan (1981). "A data
         structure for dynamic trees." In Proceedings of the thirteenth
-        annual ACM symposium on Theory of computing, pp. 114-122. ACM,
-        1981.*
+        annual ACM symposium on Theory of computing, pp. 114-122. ACM.*
   - Pri záverečných prácach uveďte autora, názov, rok, typ práce, meno
     univerzity
       - *Jakub Kováč (2013). Algorithms for Genome Rearrangements.
@@ -125,8 +124,8 @@ konzistentné v celom zozname literatúry)
     uveďte URL a dátum, kedy ste stránku navštívili
       - *Operating system. In Wikipedia, The Free Encyclopedia.
         Retrieved October 7, 2014, from
-        <http://en.wikipedia.org/w/index.php?title=Operating_system>*
-  - URL netreba uvádzať pri článkoch, knihách a iných publikáciách,
+        <https://en.wikipedia.org/w/index.php?title=Operating_system>*
+  - URL neuvádzajte pri článkoch, knihách a iných publikáciách,
     ktoré sú identifikovateľné na základe údajov o autorovi, názve,
     vydavateľovi atď
   - Ak je autorov veľa, možno uviesť prvého alebo prvých troch a
@@ -134,8 +133,8 @@ konzistentné v celom zozname literatúry)
 
 ## Ako citovať použité zdroje
 
-  - Jednotlivé položky v zozname literatúry bývajú číslované \[1\],
-    \[2\],... alebo sú im priradené skratky, napr. \[CLRS01\]. Pomocou
+  - Jednotlivé položky v zozname literatúry sú väčšinou číslované \[1\],
+    \[2\],... (niekedy sú im priradené skratky, napr. \[CLRS01\]). Pomocou
     týchto označení sa na ne potom odkazujeme v texte.
       - Opäť je vhodné každú položku aspoň raz v texte spomenúť, aby
         bolo jasné prečo ju citujete.
@@ -151,7 +150,7 @@ konzistentné v celom zozname literatúry)
         (položky \[2\], \[6\], \[7\] a \[8\] popisujú algoritmy
         používajúce triedenia)
 
-  - Odkaz typu \[1\] alebo \[CLRS01\] by sa nemal používať ako podstatné
+  - Odkaz typu \[1\] by sa nemal používať ako podstatné
     meno. Funguje ako zátvorka, mal by sa teda dať z vety vyhodiť. Nie
     je teda vhodné prvý príklad preformulovať ako *Podľa \[4\],
     zložitosť je...*
@@ -162,7 +161,7 @@ konzistentné v celom zozname literatúry)
         učebnici od autorov Cormen a kol. \[4\].* (Takéto vety používajte
         zriedkavo, vaša práca by mala byť ucelená a nemala by príliš
         často explicitne posielať čitateľov k iným zdrojom.)
-        *Fibonacciho haldy publikovali v roku 1987 Fredman a Tarjan
+      - *Fibonacciho haldy publikovali v roku 1987 Fredman a Tarjan
         \[5\].* (Takáto veta sa hodí do časti, kde popisujeme históriu
         určitej oblasti.)
   - Je možné sa odkazovať aj na konkrétne kapitoly alebo strany
@@ -173,7 +172,7 @@ konzistentné v celom zozname literatúry)
 Databáza článkov, automatické generovanie zoznamu literatúry v rôznych
 formátoch, pridávanie poznámok
 
-  - <http://www.mendeley.com/>
-  - <http://www.zotero.org/>
+  - <https://www.mendeley.com/>
+  - <https://www.zotero.org/>
 
 Prácu s literatúrou v LaTeXu popisujeme na [tejto stránke](./LaTeX_pre_bakalársku_prácu.md).
