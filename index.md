@@ -21,11 +21,11 @@ layout: index
 * **12.11. Prezentácie (aspoň 2)**<br>
 Prezentujú Kaminský, Galková, Mačeková, Bednáriková, Guláš
 * **19.11. Prezentácie (aspoň 2)**<br>
-Prezentujú Harenčák, Hegyi, Hroššová, Lucina, Nágel
+Prezentujú Harenčák, Hroššová, Lucina, Nágel
 * **26.11. Prezentácie (aspoň 2)**<br>
 Prezentujú Božík, Bukhtoiarov, Kolesár, Pazera, Šlahor, Varga
 * **3.12. Prezentácie (aspoň 2)**<br>
-Prezentujú Ambrová, Bothová, Dokupil, Dovičič, Michálková
+Prezentujú Hegyi, Ambrová, Bothová, Dokupil, Dovičič, Michálková
 * **10.12. Prezentácie (aspoň 2)**<br>
 Prezentujú Antal, Balan, Kendereš, Poľašková, Špitalský
 * **17.12. Prezentácie (aspoň 2)**<br>
