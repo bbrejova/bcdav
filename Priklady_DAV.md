@@ -2,6 +2,25 @@
 title: Príklady prác na študijnom programe dátová veda
 ---
 
+* Roderik Antol (DAV, 2024) [Detection of tax manipulations using machine learning and artificial intelligence methods](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF96EDF8AFAF84) (školiteľ Eduard Baumöhl)
+* Tomáš Belák (DAV, 2024) [Databáza športovísk na Slovensku](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCB8EA9E4AF) (školiteľ Martin Dovičák)
+* Barbora Bezáková (DAV, 2024) [Rozpoznávanie akcií z fotografií](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA84A9E4AF) (školiteľka Zuzana Berger Haladová)
+* Vladimíra Brožová (DAV, 2024) [Vizualizácia kvality hrán v súhvezdiach](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA8CA9E4AF) (školiteľ Andrej Ferko)
+* Valter Cingel (DAV, 2024) [Dolné ohraničenia maximálnej hodnosti netriviálnych čiastočných automorfizmov jednoduchých grafov](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF9EE9F7AFAF84) (školiteľ Róbert Jajcay)
+* Andrej Čerňanský (DAV, 2024) [Numerická simulácia stochastických biochemických reakčných sietí](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF9EEEFCAFAF84) (školiteľ Pavol Bokes)
+* Peter Franček (DAV, 2024) [Few-shot Learning for Sentiment Analysis of Class Reviews](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47ACC8EA9E4AF) (školiteľ Marek Šuppa)
+* Terézia Füleová (DAV, 2024) [Vizualizácia harmonickej analýzy klasickej hudby](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BC98BA9E4AF) (školiteľ Andrej Ferko)
+* Lukáš Gáborik (DAV, 2024) [Flow triangulations of cubic graphs](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF9EE9FEAFAF84) (školiteľ Jozef Rajník)
+* Gabriela Chutňáková (DAV, 2024) [Vplyv preventívnych prehliadok na dlhodobý zdravotný stav](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF9FE3F7AFAF84) (školiteľ Marek Ciesar)
+* Roman Hudec (DAV, 2024) [Štatistická analýza multivariačných údajov: Prieskum spokojnosti študentov slovenských vysokých škôl](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA8AA9E4AF) (školiteľ Martin Kanovský)
+* Lukáš Jankola (DAV, 2024) [Graph analysis of functional locations in Slovak power plants](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BC584A9E4AF) (školiteľ Peter Kertys)
+* Ján Kamas (DAV, 2024) [Analysis of a weight of a coordinated group of votes in parliamentary elections in Slovakia](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BC58EA9E4AF) (školiteľ Richard Kollár)
+* Monika Kobelárová (DAV, 2024) [Diferencovanie zdanlivo rovnakých obrázkov, porovnanie skenovacích režimov CRUSE](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BC984A9E4AF) (školiteľ Andrej Ferko)
+* Adrián Pauer (DAV, 2024) [Solver pre neradiálne DEA modely](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF9EE9FFAFAF84) (školiteľka Mária Trnovská)
+* Viktória Pravdová (DAV, 2024) [Reprezentácia 3D Rotácie v Kontexte Hlbokého Učenia](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA85A9E4AF) (školiteľ Viktor Kocur)
+* Matúš Rohaľ (DAV, 2024) [Modely finančných ťažkostí slovenských podnikov](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA8FA9E4AF) (školiteľ Tomáš Výrost)
+* Matej Štauder (DAV, 2024) [Vplyv volebnej hranice na fragmentáciu parlamentu](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BC58DA9E4AF) (školiteľ Richard Kollár)
+* Dávid Števaňák (DAV, 2024) [Augmented Keyphrase Extraction from Slovak Scientific Documents](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47ACC8CA9E4AF) (školiteľ Marek Šuppa)
 
 * Michal Dokupil (DAV, 2023) [Kompresia videa pomocou rozkladu matíc](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3C2AD1B6BF) (školiteľ Ján Gašper)
 * Stanislav Gabčo (DAV, 2023) [Grafická anonymizácia textov umiestnených do bitmapy DICOM snímky](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3C21D1B6BF) (školiteľ Miroslav Mánik)
@@ -15,7 +34,6 @@ title: Príklady prác na študijnom programe dátová veda
 * Pavlína Ružičková (DAV, 2023) [Analysis of Data from a Mobile Application for Measuring Neurological Disability](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3C22D1B6BF) (školiteľka Bronislava Brejová)
 * Kristína Sásiková (DAV, 2023) [štatistická analýza ukazovateľov sociálnej kohézie na Slovensku](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3F20D1B6BF) (školiteľ Ján Gašper)
 * Andrej Zelinka (DAV, 2023) [Keyphrase Extraction from Slovak Scientific Documents](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3A2BD1B6BF) (školiteľ Marek Šuppa)
-
 
 Ďalšie príklady bakalárskych prác, ktoré vznikli v minulosti v rôznych študijných programoch a boli by vhodnými prácami pre študijný program dátová veda.
 
