@@ -32,7 +32,7 @@ title: Príklady prác na študijnom programe dátová veda
 * Viktória Ondrejová (DAV, 2023) [Summarization of Slovak News Articles](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971D93A2AD1B6BF) (školiteľ Marek Šuppa)
 * Katarína Osvaldová (DAV, 2023) [Noise Evaluation in Data Captured by 3D Cameras](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971D93A27D1B6BF) (školiteľ Martin Madaras)
 * Pavlína Ružičková (DAV, 2023) [Analysis of Data from a Mobile Application for Measuring Neurological Disability](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3C22D1B6BF) (školiteľka Bronislava Brejová)
-* Kristína Sásiková (DAV, 2023) [štatistická analýza ukazovateľov sociálnej kohézie na Slovensku](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3F20D1B6BF) (školiteľ Ján Gašper)
+* Kristína Sásiková (DAV, 2023) [Štatistická analýza ukazovateľov sociálnej kohézie na Slovensku](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3F20D1B6BF) (školiteľ Ján Gašper)
 * Andrej Zelinka (DAV, 2023) [Keyphrase Extraction from Slovak Scientific Documents](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C03CB0FBA6588971DD3A2BD1B6BF) (školiteľ Marek Šuppa)
 
 Ďalšie príklady bakalárskych prác, ktoré vznikli v minulosti v rôznych študijných programoch a boli by vhodnými prácami pre študijný program dátová veda.
