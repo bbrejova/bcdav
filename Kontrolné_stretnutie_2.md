@@ -3,9 +3,6 @@ title: Kontrolné stretnutie 2
 ---
 
 10% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103691) pred začiatkom termínu vášho stretnutia. 
-<!-- INF:
-[1](https://moodle.uniba.sk/mod/assign/view.php?id=64197),-->
-
 
 Cieľom kontrolného stretnutia je opäť sledovanie pokroku na vašej práci.
 Na rozdiel od prezentácie 2 bude kontrolné stretnutie individuálnou
@@ -22,8 +19,6 @@ diskusiou vyučujúcich s jedným študentom.
   - Materiály si prineste na vlastnom notebooku (ak je to pre vás
     problém, poproste o požičanie notebooku spolužiaka alebo si vopred
     dohodnite s nami použitie nášho počítača).
-
-
   - Samotné stretnutie bude dialógom medzi vyučujúcimi a študentom, v
     ktorom prejdeme cez vašu prezentáciu a rozdiskutujeme vaše plány a
     problémy. V prípade potreby sa pritom môžeme pozrieť aj na niektoré
@@ -33,5 +28,7 @@ V tomto zadaní nebudeme hodnotiť stupeň vášho pokroku, ale skôr to, ako
 dobre ste si premysleli váš aktuálny stav a budúce plány a ako ste sa na
 stretnutie pripravili.
 
+<!--
 Môžeme vám nariadiť aj účasť na ešte jednom kole kontrolného stretnutia,
 ak máme pocit, že by to pre vašu prácu bolo prospešné.
+-->

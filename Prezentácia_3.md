@@ -5,7 +5,6 @@ title: Prezentácia 3
 40% známky, pdf odovzdať cez [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=103692) najneskôr
 hodinu pred začiatkom stretnutia, na ktorom budete prezentovať. Odovzdané pdf nahráme
 na počítač, z ktorého budete prezentovať. 
-<!-- 50% známky INF,  [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=64199) -->
 
 Cez skúškové obdobie (po odovzdaní prác) sa bude konať prezentácia 3
 slúžiaca ako nácvik obhajob, kde každý študent prezentuje svoju prácu
@@ -27,11 +26,8 @@ a odpovedá na otázky z publika.
   - Rady k príprave prezentácie sú [v
     návode](./Obhajoba,_prezentácia_vlastných_výsledkov.html).
 
+<!-- 
 ## Rozpis prezentácií
 
-* 6.6. 9:00 M-V Antol, Lopaška, Chutňáková, Jaremčuková, Man, Rohaľ
-* 6.6. 13:30 M-V Cingel, Kamas, Štauder, Pauer
-* 10.6. 9:00 M-V Kobelárová, Brožová, Caban, Jankola, Belák
-* 10.6. 13:30 M-V Bezáková, Füleová, Pravdová, Nosko, Kopecká
-* 11.6. 9:00 M-VI Novotná, Čerňanský, Hamidová, Šoošová, Koleková, Gáborik
-* 11.6. 13:30 M-VI Franček, Gogová, Pitoňák, Števaňák, Zivák
+* 6.6. 9:00 M-V 
+-->

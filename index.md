@@ -12,21 +12,20 @@ layout: index
 * **27.2. Cvičenie k písaniu (všetci)**<br>
 Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br> 
 <!-- [Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544) -->
-{% if false %}
 * **6.3. Prezentácie**<br>
 * **13.3. Prezentácie**<br>
 * **20.3. Prezentácie**<br>
 * **27.3.** Seminár nebude
 * **3.4. Prezentácie**<br>
-* **10.4. Prezentácie / Kontrolné stretnutia**<br>
+* **10.4. Prezentácie**<br>
 * **17.4.** Veľká Noc<br>
 * **24.4. Kontrolné stretnutia**<br>
-* **1.5.**<br>
-* **8.5. 
+* **1.5. Kontrolné stretnutia v náhradných časoch**<br>
+* **8.5.** Sviatok 
 * **15.5.** Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) -->
 * V skúškovom období [nácvik obhajob](./Prezentácia_3.html)
-{% endif %}
+
 
 #### Zimný semester
 

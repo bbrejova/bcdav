@@ -72,9 +72,9 @@ práce s inými predmetmi.
     prehľad už hotových častí práce a časový plán na jej dokončenie.
   - Neskôr bude ešte **[kontrolné stretnutie
     2](./Kontrolné_stretnutie_2.html)** s podobnou náplňou ako
-    prezentácia 2. Môžeme vám nariadiť aj účasť na ešte jednom kole
+    prezentácia 2. <!-- Môžeme vám nariadiť aj účasť na ešte jednom kole
     kontrolného stretnutia, ak máme pocit, že by pre vašu prácu bolo
-    prospešné.
+    prospešné.-->
   - K všetkým povinnostiam odovzdajte požadované dokumenty elektronicky
     do systému Moodle, kde budeme tiež zverejňovať body.
   - Dodržujte termín odovzdania a pokyny uvedené v zadaní.
@@ -105,7 +105,7 @@ prácu za týchto podmienok:
   - Nemá však zmysel odovzdávať výrazne nedokončené bakalárske práce,
     známku z bakalárskeho seminára nedostanete a iba si znížite počet
     opravných termínov.
-  - Ak nedostane známku z bakalárskeho seminára, predmet musíte
+  - Ak nedostanete známku z bakalárskeho seminára, predmet musíte
     absolvovať znovu (spravidla v ďalšom školskom roku).
   - Augustové obhajoby sú určené len pre tých, ktorí podľa
     školiteľa odovzdali obhájiteľnú prácu, avšak na obhajobe dostali
