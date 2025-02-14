@@ -5,7 +5,7 @@ title: Komentáre k DÚ2
 
 10% známky, odovzdanie v systéme Moodle v [rovnakej
 položke](https://moodle.uniba.sk/mod/workshop/view.php?id=103693) ako
-DÚ2 do utorka 18.3.2024 22:00.
+DÚ2 do utorka 25.3.2024 22:00.
 
 Po odovzdaní [DÚ2](./DÚ2.md) bude váš text poskytnutý dvom náhode
 priradeným spolužiakom, ktorí vám k nemu poskytnú komentáre a vy naopak

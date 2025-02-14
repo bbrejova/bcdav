@@ -22,7 +22,7 @@ Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 �
 * **24.4. Kontrolné stretnutia**<br>
 * **1.5. Kontrolné stretnutia v náhradných časoch**<br>
 * **8.5.** Sviatok 
-* **15.5.** Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
+* **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) -->
 * V skúškovom období [nácvik obhajob](./Prezentácia_3.html)
 
