@@ -8,9 +8,9 @@ layout: index
 #### Letný semester
 
 * **20.2. Úvod (všetci)**<br>
-<!-- [Oznamy](./Oznamy_február.md) -->
+[Oznamy](./Oznamy_február.md)
 * **27.2. Cvičenie k písaniu (všetci)**<br>
-Prineste si notebook s nabitou baterkou a funkčnou WiFi, stačí jeden na 2-3 študentov. V prípade záujmu si prineste aj krátke úryvky vášho textu na zlepšovanie.<br> 
+Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> 
 <!-- [Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544) -->
 * **6.3. Prezentácie**<br>
 * **13.3. Prezentácie**<br>
