@@ -38,13 +38,6 @@ title: Odovzdávanie prác
     označte prácu ako finálnu. Potom už nie je možné v práci robiť
     žiadne ďalšie zmeny.
 
-<!-- 
-## Odovzdávanie do katedrového systému
-
-  - Pre program INF vyžaduje Katedra informatiky odovzdanie práce
-    aj do katedrového [systému](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
--->
-
 ## Licenčné zmluvy
 
   - Po odovzdaní práce vám AIS vygeneruje dve licenčné zmluvy podľa
@@ -104,8 +97,8 @@ knižnici
   - Jednostranná alebo obojstranná tlač (od 2018 sa odporúča
     obojstranná), pevná väzba (tvrdé dosky alebo termoväzba), nesmie
     byť možné vyberať stránky
-  - Elektronické prílohy stačí odovzdať do AIS<!-- a v prípade INF do
-    katedrového systému KI-->, netreba ich prikladať k vytlačenej práci
+  - Elektronické prílohy stačí odovzdať do AIS,
+    netreba ich prikladať k vytlačenej práci
   - Pozor na správnu úpravu titulnej stránky a ďalších povinných
     náležitostí
   - Odovzdáva sa jedna kópia práce plus kópia titulného listu práce
@@ -121,13 +114,13 @@ knižnici
 BIN:
 
   - Odovzdáva sa na sekretariáte Katedry informatiky u pani Pažickej,
-    M-254 do piatku 31.5., odporúčame prísť v doobednajších hodinách 
+    M-254, odporúčame prísť v doobednajších hodinách 
   - Ďalšie informácie viď [stránka
     katedry](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
 
 DAV
 
-  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24 do piatku 31.5. alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI
+  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24. alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI
 
 Prineste
 

@@ -13,14 +13,21 @@ layout: index
 Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> 
 <!-- [Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544) -->
 * **6.3. Prezentácie**<br>
+Poľašková, Balan, Špitalský, Antal, Kendereš, Mačeková
 * **13.3. Prezentácie**<br>
+Halmová, Chabadová, Hrúzik, Kováčová, Šenkarčinová, Hroššová
 * **20.3. Prezentácie**<br>
+Bednáriková, Guláš, Harenčák, Kaminský, Nágel, Lucina
 * **27.3.** Seminár nebude
 * **3.4. Prezentácie**<br>
+Dovičič, Bothová, Ambrová, Dokupil, Galková
 * **10.4. Prezentácie**<br>
+Božík, Kolesár, Pazera, Šlahor, Varga
 * **17.4.** Veľká Noc<br>
 * **24.4. Kontrolné stretnutia**<br>
+(predbežne skupiny 6.3.-20.3)
 * **1.5. Kontrolné stretnutia v náhradných časoch**<br>
+(predbežne skupiny 3.4. a 10.4.)
 * **8.5.** Sviatok 
 * **15.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) -->
