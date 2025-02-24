@@ -15,12 +15,12 @@ Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br>
 * **6.3. Prezentácie**<br>
 Poľašková, Balan, Špitalský, Antal, Kendereš, Mačeková
 * **13.3. Prezentácie**<br>
-Halmová, Chabadová, Hrúzik, Kováčová, Šenkarčinová, Hroššová
+Halmová, Chabadová, Hrúzik, Kováčová, Šenkarčinová, Oravčok, Hroššová
 * **20.3. Prezentácie**<br>
 Bednáriková, Guláš, Harenčák, Kaminský, Nágel, Lucina
 * **27.3.** Seminár nebude
 * **3.4. Prezentácie**<br>
-Dovičič, Bothová, Ambrová, Dokupil, Galková, Oravčok
+Dovičič, Bothová, Ambrová, Dokupil, Galková
 * **10.4. Prezentácie**<br>
 Božík, Kolesár, Pazera, Šlahor, Varga
 * **17.4.** Veľká Noc<br>
