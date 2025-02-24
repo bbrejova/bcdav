@@ -20,7 +20,7 @@ Halmová, Chabadová, Hrúzik, Kováčová, Šenkarčinová, Hroššová
 Bednáriková, Guláš, Harenčák, Kaminský, Nágel, Lucina
 * **27.3.** Seminár nebude
 * **3.4. Prezentácie**<br>
-Dovičič, Bothová, Ambrová, Dokupil, Galková
+Dovičič, Bothová, Ambrová, Dokupil, Galková, Oravčok
 * **10.4. Prezentácie**<br>
 Božík, Kolesár, Pazera, Šlahor, Varga
 * **17.4.** Veľká Noc<br>
