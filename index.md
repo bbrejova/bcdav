@@ -10,8 +10,9 @@ layout: index
 * **20.2. Úvod (všetci)**<br>
 [Oznamy](./Oznamy_február.md)
 * **27.2. Cvičenie k písaniu (všetci)**<br>
-Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br>
-Zadanie: <https://bit.ly/4bh6jbC>
+<!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> -->
+Prezentáciu aj vypracované cvičenie nájdete v Moodli.
+<!-- Zadanie: <https://bit.ly/4bh6jbC> -->
 <!-- [Časť 1](https://moodle.uniba.sk/mod/quiz/view.php?id=104541), [časť 2 naše](https://moodle.uniba.sk/mod/quiz/view.php?id=104542), [časť 2 vaše](https://moodle.uniba.sk/mod/quiz/view.php?id=104544) -->
 * **6.3. Prezentácie**<br>
 Poľašková, Balan, Špitalský, Antal, Kendereš, Mačeková
@@ -26,7 +27,7 @@ Dovičič, Bothová, Ambrová, Dokupil, Galková
 Božík, Kolesár, Pazera, Šlahor, Varga
 * **17.4.** Veľká Noc<br>
 * **24.4. Kontrolné stretnutia**<br>
-(predbežne skupiny 6.3.-20.3)
+(predbežne skupiny 6.3.-20.3.)
 * **1.5. Kontrolné stretnutia v náhradných časoch**<br>
 (predbežne skupiny 3.4. a 10.4.)
 * **8.5.** Sviatok 
