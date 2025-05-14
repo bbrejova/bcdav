@@ -10,9 +10,13 @@
 **Čo vás čaká v najbližšom čase**
 
 - Dnes: o odovzdávaní, o konci štúdia, o prezentáciách, organizácia nácviku obhajob
-- Do piatka 30.5. podanie prihlášok na štátne skúšky (AIS)
+- V predstihu pred odovzdaním bakalárskej práce
+  - Skontrolujte si zadanie, prípadné zmeny riešte čím skôr
+  - Skontrolujte si prevod na text [na stránke CRZP](http://testdoc.crzp.sk/?fn=main)
+  - Zálohujte si prácu (viď nedávne výpadky na stránke overleaf)
 - Do nedele 25.5. [odovzdanie práce elektronicky](./Odovzdávanie_prác.html#elektronická-verzia-práce) do systému AIS (DAV+BIN)
 - Do piatka 30.5. [odovzdanie papierovej verzie](./Odovzdávanie_prác.html#odovzdávanie-vytlačených-prác-na-katedre) bakalárskej práce,
+- Do piatka 23.5. podanie prihlášok na štátne skúšky (AIS)
 - V skúškovom: nácvik obhajob, 40% známky na tomto predmete
    - termíny 5.6. doobeda, 6.6. doobeda, 12.6. poobede, 16.6, doobeda, zapisujte sa v AIS
 - 16.6. koniec skúškového obdobia, nahláste študijnej referentke ukončenie skúškového
@@ -25,11 +29,6 @@
         obhajob) lepší ako 1,75
       - nakoľko priemer je známy až po obhajobách, finálne pozvánky až na
         poslednú chvíľu
-
-**V predstihu pred odovzdaním bakalárskej práce**
-
-- Skontrolujte si zadanie, prípadné zmeny riešte čím skôr
-- Skontrolujte si prevod na text [na stránke CRZP](http://testdoc.crzp.sk/?fn=main)
 
 **Magisterské štúdium na programe Informatika**
 
