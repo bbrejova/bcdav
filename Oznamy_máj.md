@@ -1,7 +1,7 @@
 **Osnova**
 
 - Harmonogram
-- [Prezentácia 3](./Prezentácia_3.md)
+- [Prezentácia 3](./Prezentácia_3.md) (nácvik obhajob)
 - Magisterské štúdium
 - [Odovzdávanie prác](./Odovzdávanie_prác.md)
 - [Obhajoba, prezentácia vlastných výsledkov](./Obhajoba,_prezentácia_vlastných_výsledkov.md)
@@ -10,16 +10,16 @@
 **Čo vás čaká v najbližšom čase**
 
 - Dnes: o odovzdávaní, o konci štúdia, o prezentáciách, organizácia nácviku obhajob
-- Do piatka 24.5. podanie prihlášok na štátne skúšky (AIS)
-- Do nedele 26.5. [odovzdanie práce elektronicky](./Odovzdávanie_prác.html#elektronická-verzia-práce) do systému AIS
-- Do piatka 31.5. [odovzdanie papierovej verzie](./Odovzdávanie_prác.html#odovzdávanie-vytlačených-prác-na-katedre) bakalárskej práce,
+- Do piatka 30.5. podanie prihlášok na štátne skúšky (AIS)
+- Do nedele 25.5. [odovzdanie práce elektronicky](./Odovzdávanie_prác.html#elektronická-verzia-práce) do systému AIS (DAV+BIN)
+- Do piatka 30.5. [odovzdanie papierovej verzie](./Odovzdávanie_prác.html#odovzdávanie-vytlačených-prác-na-katedre) bakalárskej práce,
 - V skúškovom: nácvik obhajob, 40% známky na tomto predmete
-   - predpokladané termíny 6.,7.,10.,11. júna, konflikty vyznačte do prezenčky
-- 14.6. koniec skúškového obdobia, nahláste študijnej referentke ukončenie skúškového
-- 18.6. – 28.6. Štátne skúšky a obhajoby (sledujte [oznamy študijného
+   - termíny 5.6. doobeda, 6.6. doobeda, 12.6. poobede, 16.6, doobeda, zapisujte sa v AIS
+- 16.6. koniec skúškového obdobia, nahláste študijnej referentke ukončenie skúškového
+- 18.6. – 30.6. Štátne skúšky a obhajoby (sledujte [oznamy študijného
  oddelenia](https://zona.fmph.uniba.sk/studenti-a-studium/statne-skusky-a-obhajoby/))
-  - predbežne BIN 24.6, DAV štátnice 19. a 20.6., obhajoby 25.-27.6.  
-  - 28.6. budú prijímacie skúšky na mINF
+  - predbežne BIN 20.6. poobede, DAV štátnice 18. a 19.6., obhajoby 24.-26.6.  
+  - 27.6. budú prijímacie skúšky na mINF
       - bez prijímačiek prijatí študenti, ktorí majú študijný priemer z
         povinných a povinne voliteľných predmetov (vrátane štátnic a
         obhajob) lepší ako 1,75
@@ -59,3 +59,17 @@
   ak prídete neskoro
 - Niekedy je možné na diplomovej práci nadviazať na bakalársku, čo je
   výhoda, lebo sa orientujete v problematike
+
+**Študentská vedecká konferencia**
+
+Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
+
+* Zuzana Kováčová: Specificity of the Methodology for Detecting Anomalies in Athletes’ Biological Passports Used in Anti-Doping Testing, 2. miesto v sekcii Matematika
+* Andrej Špitalský: Effects of Diffusion on Territory Formation in Wolf Populations, laureát, Cena prof. Mariána Neamtu v sekcii Matematika
+* Lukáš Gáborik: Flow triangulations of cubic graphs, laureát  v sekcii Matematika
+* Damian Harenčák: Decentralized privacy preserving federated learning for 3D scan processing, jeden z víťazov v sekcii Počítačová grafika a strojové učenie
+* Erik Božík: Slovak Speech Corpora for Open-Source Automatic Speech Recognition, laureát v sekcii Počítačová grafika a strojové učenie
+
+Všetkým gratulujeme a dúfame, že budú inšpiráciou pre vás zúčastniť sa ŠVK v budúcnosti.
+
+Študenti uvedení vyššie, ktorí sa úspešne zúčastnili ŠVK, dostanú plný počet bodov z prezentácie 3 (nácvik obhajob), nakoľko si už prezentáciu precvičili. Prosím nehláste sa na termíny v AIS. Ak ale máte záujem nám odprezentovať aktuálnu verziu vašej prezentácie a dostať k nej spätnú väzbu, dajte nám vedieť (dohodneme zvláštny termín).

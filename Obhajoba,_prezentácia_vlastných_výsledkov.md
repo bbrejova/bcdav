@@ -106,19 +106,17 @@ ktorý podľa potreby použijete počas diskusie
 
 Množstvo textu
 
-  - V prezentácii sa vyhýbajte dlhým súvislým odstavcom, uprednostnite
+  - V prezentácii sa vyhýbajte dlhým súvislým odsekom, uprednostnite
     kratšie heslovité texty
   - Výnimkou môže byť napríklad dôležitý citát alebo znenie kľúčovej
     vety
   - Veľmi dôležité sú obrázky a grafy ilustrujúce, čo rozprávate
-
-<!-- end list -->
-
-  - Skúseným rečníkom stačia obrázky a zopár nadpisov. Tento štýl
+  - Skúseným rečníkom stačia pri menej technických témach obrázky a zopár nadpisov. Tento štýl
     prezentácie je však riskantný, obzvlášť pre začiatočníkov, lebo keď
     stratíte niť, nemáte sa čoho chytiť
+  - Tiež sa bez textu / vzorov ťažko sleduje matematika alebo vysvetlenie ťažších pojmov
   - Preto odporúčam heslovito si do prezentácie napísať všetky hlavné
-    body, ako vodítko v prípade problémov
+    body, ako vodítko pre vás aj pre publikum
 
 Technická náročnosť
 
@@ -158,6 +156,7 @@ Najdôležitejším kritériom je, aby váš text bol na projektore dobre
         najodlišnejšie farby
       - Projektory totiž často farby veľmi skresľujú a farby, ktoré sú
         dobre odlíšiteľné na obrazovke môžu byť veľmi podobné na plátne
+  - Očíslujte strany, komisii to pomôže položiť otázku ku konkrétnej strane
 
 Uprednostnite jednoduchší štýl, aby zbytočne nerušil publikum
 

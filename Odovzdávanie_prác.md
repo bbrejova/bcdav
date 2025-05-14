@@ -127,8 +127,8 @@ Prineste
   - 1 kópiu práce,
   - 1 kópiu titulnej strany (strana, na ktorej je aj pracovisko a
     študijný program),
-  - e-mail na školiteľa, hlavne pokiaľ nie je z našej fakulty
-  - Elektronickú prílohu, ak sa ju nepodarilo nahrať do systému kvôli
+  - e-mail na školiteľa, hlavne pokiaľ nie je z našej fakulty,
+  - elektronickú prílohu, ak sa ju nepodarilo nahrať do systému kvôli
     veľkosti
 
 ## Po odovzdaní
