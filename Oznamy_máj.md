@@ -1,10 +1,10 @@
 **Osnova**
 
-- Harmonogram
+- Harmonogram + ŠVK
 - [Prezentácia 3](./Prezentácia_3.md) (nácvik obhajob)
-- Magisterské štúdium
 - [Odovzdávanie prác](./Odovzdávanie_prác.md)
 - [Obhajoba, prezentácia vlastných výsledkov](./Obhajoba,_prezentácia_vlastných_výsledkov.md)
+- Magisterské štúdium
 - ([Štúdium v poslednom ročníku](./Štúdium_v_poslednom_ročníku.md))
 
 **Čo vás čaká v najbližšom čase**
@@ -29,6 +29,20 @@
         obhajob) lepší ako 1,75
       - nakoľko priemer je známy až po obhajobách, finálne pozvánky až na
         poslednú chvíľu
+
+**Študentská vedecká konferencia**
+
+Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
+
+* Zuzana Kováčová: Specificity of the Methodology for Detecting Anomalies in Athletes’ Biological Passports Used in Anti-Doping Testing, 2. miesto v sekcii Matematika
+* Andrej Špitalský: Effects of Diffusion on Territory Formation in Wolf Populations, laureát, Cena prof. Mariána Neamtu v sekcii Matematika
+* Lukáš Gáborik: Flow triangulations of cubic graphs, laureát  v sekcii Matematika
+* Damian Harenčák: Decentralized privacy preserving federated learning for 3D scan processing, jeden z víťazov v sekcii Počítačová grafika a strojové učenie
+* Erik Božík: Slovak Speech Corpora for Open-Source Automatic Speech Recognition, laureát v sekcii Počítačová grafika a strojové učenie
+
+Všetkým gratulujeme a dúfame, že budú inšpiráciou pre vás zúčastniť sa ŠVK v budúcnosti.
+
+Študenti uvedení vyššie, ktorí sa úspešne zúčastnili ŠVK, dostanú plný počet bodov z prezentácie 3 (nácvik obhajob), nakoľko si už prezentáciu precvičili. Prosím nehláste sa na termíny v AIS. Ak ale máte záujem nám odprezentovať aktuálnu verziu vašej prezentácie a dostať k nej spätnú väzbu, dajte nám vedieť (dohodneme zvláštny termín).
 
 **Magisterské štúdium na programe Informatika**
 
@@ -58,17 +72,3 @@
   ak prídete neskoro
 - Niekedy je možné na diplomovej práci nadviazať na bakalársku, čo je
   výhoda, lebo sa orientujete v problematike
-
-**Študentská vedecká konferencia**
-
-Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
-
-* Zuzana Kováčová: Specificity of the Methodology for Detecting Anomalies in Athletes’ Biological Passports Used in Anti-Doping Testing, 2. miesto v sekcii Matematika
-* Andrej Špitalský: Effects of Diffusion on Territory Formation in Wolf Populations, laureát, Cena prof. Mariána Neamtu v sekcii Matematika
-* Lukáš Gáborik: Flow triangulations of cubic graphs, laureát  v sekcii Matematika
-* Damian Harenčák: Decentralized privacy preserving federated learning for 3D scan processing, jeden z víťazov v sekcii Počítačová grafika a strojové učenie
-* Erik Božík: Slovak Speech Corpora for Open-Source Automatic Speech Recognition, laureát v sekcii Počítačová grafika a strojové učenie
-
-Všetkým gratulujeme a dúfame, že budú inšpiráciou pre vás zúčastniť sa ŠVK v budúcnosti.
-
-Študenti uvedení vyššie, ktorí sa úspešne zúčastnili ŠVK, dostanú plný počet bodov z prezentácie 3 (nácvik obhajob), nakoľko si už prezentáciu precvičili. Prosím nehláste sa na termíny v AIS. Ak ale máte záujem nám odprezentovať aktuálnu verziu vašej prezentácie a dostať k nej spätnú väzbu, dajte nám vedieť (dohodneme zvláštny termín).
