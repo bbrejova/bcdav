@@ -18,7 +18,9 @@ V prezentácii uveďte nasledovné:
   - Prehľad čiastkových cieľov, ktoré ste už splnili (napr. akú
     literatúru ste naštudovali, aké nástroje/knižnice ste si
     nainštalovali a naučili sa používať, či máte rozmyslený návrh
-    systému, aké časti softvéru už máte implementované, aké časti textu
+    systému, aké časti softvéru už máte implementované, či už máte k
+    dispozícii dáta, či ste na nich už robili nejaké analýzy, aké
+    časti textu
     máte napísané atď) Opäť nemusíte ukazovať detaily vašich výsledkov,
     len ich zoznam.
   - Časový plán na dokončenie práce: rozmyslite si, čo ešte treba

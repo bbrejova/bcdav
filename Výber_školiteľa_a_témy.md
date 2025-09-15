@@ -119,15 +119,13 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
     tam ako študenta
       - Treba zadať názov a cieľ práce (názov v slovenskom aj anglickom
         jazyku) a zvoliť aj jazyk, v akom bude práca písaná
-  - Garanti (doc. Vinař, doc. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schvália (ak je zadanie vhodné)
+  - Garanti (doc. Vinař, prof. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schvália (ak je zadanie vhodné)
   - Téma by mala byť v AIS aj schválená do 31.10. Mali by ste si preto
     tému nájsť v dostatočnom predstihu, aby školiteľ a garant mali čas
     vybaviť túto administratívu
   - Po schválení študent alebo školiteľ vytlačí zadanie
       - Jedno vytlačené zadanie podpísané študentom aj školiteľom treba
         zaniesť na študijné oddelenie
-      - Jedno vytlačené a podpísané zadanie budete potrebovať zaviazať
-        do práce, ale stačí vytlačiť aj neskôr
   - Zadanie sa dá modifikovať so súhlasom školiteľa a garanta (napr.
     zmena názvu práce, zmena jazyka), ale je to administratívne náročné
     pre školiteľa, preto je ideálne zvládnuť finálnu verziu zadania už

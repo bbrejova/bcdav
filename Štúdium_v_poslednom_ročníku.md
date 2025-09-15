@@ -65,7 +65,7 @@ title: Štúdium v poslednom ročníku
 - Magisterský študijný program Genetika na PriFUK (vhodný pre absolventov BIN): [študijný plán](https://sluzby.fmph.uniba.sk/infolist-prif/sk/sp_mB-GE.html)
 - [Ďalšie informácie](https://fns.uniba.sk/magisterske_studium/) o magisterských študijných programoch na PriFUK
 
-- [Magisterské študiiné programy](https://fmph.uniba.sk/studium/magisterske-studium/) Aplikovaná informatika, Kognitívna veda, Počítačová grafika a geometria na FMFI UK (DAV aj BIN)
+- [Magisterské študijné programy](https://fmph.uniba.sk/studium/magisterske-studium/) Aplikovaná informatika, Kognitívna veda, Počítačová grafika a geometria na FMFI UK (DAV aj BIN)
 
 
 ### Po skončení štúdia
@@ -101,3 +101,4 @@ title: Štúdium v poslednom ročníku
       - Pozor, podmienkou absolvovania Bakalárskeho seminára (2) bude
         odovzdanie práce, v zásade teda nie je možné odovzdať prácu
         prvýkrát až pred augustovým termínom a ukončiť štúdium v tomto roku
+ 
