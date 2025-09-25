@@ -9,7 +9,7 @@ layout: index
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)
 * **30.9. Seminár nebude**
 * **7.10. Predstavovanie tém a školiteľov (všetci)**
-* **Štvrtok 9.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**
+* **Streda 8.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**
 * **14.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
 [Úvod do LaTeXu](./Úvod_do_LaTeXu.md) • Prineste si notebook, pripravte si softvér / konto na overleaf.com
 * **21.10. Nájdené témy, úvod k prezentáciám, písomná práca (všetci)**<br>
