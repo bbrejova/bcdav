@@ -47,7 +47,6 @@ Pri zložitejších súboroch je vhodné príkaz `pdflatex` spustiť viackrát.
 
   - [LaTeX na Wikibooks](http://en.wikibooks.org/wiki/LaTeX) obsahuje aj
     popis mnohých užitočných knižníc makier
-  - Príručka *Nie príliš stručný úvod do systému LaTeX2e* [staršia
-    verzia v
-    slovenčine](http://zelmanov.ptep-online.com/ctan/lshort_slovak.pdf),
-    [novšia verzia v angličtine](https://tobi.oetiker.ch/lshort/)
+  - Príručka *Nie príliš stručný úvod do systému LaTeX2e* [v
+    slovenčine](https://www.uiam.sk/~fikar/linux/Slshorte.pdf),
+    [v angličtine](https://tobi.oetiker.ch/lshort/)
