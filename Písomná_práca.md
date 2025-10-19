@@ -12,12 +12,12 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
   - Smernica odporúča
       - rozsah aspoň 30-40 normostrán, t.j. 54 000 až 72 000 znakov
         vrátane medzier,
-      - obojstrannú tlač,
+      - obojstrannú tlač (ale jednostranná lepšia pre pdf)
       - veľkosť písma 12pt, riadkovanie 1,5
       - okraje vľavo 3,5 cm, vpravo 2 cm, zhora a zdola 2,5 cm (zľava je
         väčší okraj kvôli väzbe)
   - Slovenský alebo anglický jazyk
-  - Odovzdáva sa pdf aj tlačené exempláre, detaily neskôr
+  - Odovzdáva sa hlavne pdf ale aj jeden tlačený exemplár, detaily neskôr
 
 ## Členenie práce
 
@@ -36,6 +36,7 @@ fakty, ktoré sú štandardnou súčasťou bakalárskeho štúdia.
           - Študijný program: Bioinformatika, Študijný odbor:
             Informatika a Biológia
   - **Zadanie** z AIS - stiahnuť ako pdf, pri anglických prácach vložte slovenskú aj anglickú verziu
+  - **Čestné vyhlásenie** odporúčané v smernici k používaniu AI
   - **Poďakovanie** (nepovinné)
       - Môžete poďakovať školiteľovi, prípadne ďalším osobám, ktoré vám
         pri práci nejako pomohli, poradili, poskytli dáta a pod.

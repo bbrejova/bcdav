@@ -12,7 +12,7 @@ title: Príklady prác na študijnom programe bioinformatika
 * Veronika Tordová (2021) [Databáza variantov v genóme viniča](https://opac.crzp.sk/?fn=detailBiblioForm&sid=2DF2AC71C78DA39E98F1B2873752) (školiteľ Bronislava Brejová)
 * Dária Čárska (2020) [Detection of microsatellite instability from genomic data obtained by next generation sequencing](https://opac.crzp.sk/?fn=detailBiblioForm&sid=69B07E5EF4F2B22F0B86B7C7FD1B) (školiteľ Jaroslav Budiš) 
 * Andrej Baláž (2018) [Sequence based classification of bacteriophages](https://opac.crzp.sk/?fn=detailBiblioForm&sid=BCB1C6D618A1774C85DAC75E7FBF) (školiteľ Jaroslav Budiš)
-<!-- * Dominik Bujna (2018) [Computational analysis of the genome of fungus Jaminaea angkorensis](https://opac.crzp.sk/?fn=detailBiblioForm&sid=6AA8E1A8284D263B42914120F398) (školiteľka Bronislava Brejová) -->
+* Dominik Bujna (2018) [Computational analysis of the genome of fungus Jaminaea angkorensis](https://opac.crzp.sk/?fn=detailBiblioForm&sid=6AA8E1A8284D263B42914120F398) (školiteľka Bronislava Brejová)
 
 
 
