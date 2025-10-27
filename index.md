@@ -15,12 +15,18 @@ layout: index
 * **21.10. Nájdené témy, úvod k prezentáciám, písomná práca (všetci)**<br>
 [Návod](./Návod.md) (podstránky 3.,4.,4b.,7.) • [Prezentácia 1](./Prezentácia_1.md)  • [Oznamy](Oznamy_október.md)
 * **28.10. Práca s literatúrou, LaTeX, (všetci)**<br>
-<!-- [Návod](./Návod.md) (podstránky 5., 6.) •  [DÚ1](./DÚ1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) -->
+[Návod](./Návod.md) (podstránky 5., 6.) •  [DÚ1](./DÚ1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)
 * **4.11. Rezerva**
 * **11.11. Prezentácie (aspoň 2)**<br>
+Kutsko, Milčová, Kostolník, Pilátová, Bukreev
 * **18.11. Prezentácie (aspoň 2)**<br>
+Shcherban, Andrukhovskyi, Chromík, Jendrušák, Tunik
 * **25.11. Prezentácie (aspoň 2)**<br>
+Kužmová, Skaloš, Novotný, Šugár, Pákozdyová
 * **2.12. Prezentácie (aspoň 2)**<br>
+Kasat, Kuprienko, Atamas, Ganajová, Vladová
 * **9.12. Prezentácie (aspoň 2)**<br>
+E.Nagyová, Kalyn, Beloglazov, P.Nagyová, Voenkov
 * **16.12. Prezentácie (aspoň 2)**<br>
+Šimkovič, Nguyen Van, Krebesová, Osipchuk
 * **Kontrolné stretnutie cez skúškové obdobie**

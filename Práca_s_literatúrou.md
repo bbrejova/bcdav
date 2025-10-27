@@ -2,8 +2,22 @@
 title: Práca s literatúrou
 ---
 
-Pri bakalárskej práci vám literatúru odporučí školiteľ, ale mali by ste
+Zo smernice o záverečných prácach: "Študent má preukázať primeranú znalosť vedomostí o problematike a uplatniť svoje schopnosti pri zhromažďovaní, interpretácii a spracúvaní základnej odbornej literatúry, [...]"
+
+Pri bakalárskej práci vám nejakú literatúru odporučí školiteľ, ale mali by ste
 sa postupne učiť si vhodné zdroje hľadať aj sami.
+
+## Čo a prečo hľadáme v litaratúre
+
+* Poznatky z aplikačnej oblasti
+* Metódy, ktoré používate (matematické metódy, softvér, knižnice)
+* Podobné práce (buď z rovnakej aplikačnej oblasti alebo s podobnými metódami)
+  * inšpirácia
+  * prehľadová časť práce
+  * porovnanie s vašou prácou
+
+
+
 
 ## Typy zdrojov
 
@@ -29,13 +43,13 @@ Iné odborné práce
   - normy, zákony, špecifikácie
   - diplomové a bakalárske práce
 
-Pozor, dôležité je posúdiť dôveryhodnosť zdroja
+Pozor, dôležité je posúdiť **dôveryhodnosť zdroja**
 
-  - Kto je autor? Je to známy odborník v oblasti? Vieme niečo o jeho
+  - Kto je **autor**? Je to známy odborník v oblasti? Vieme niečo o jeho
     vzdelaní? Je zamestnaný na dôveryhodnej inštitúcii?
-  - Kto je vydavateľ? Ide o dôveryhodného vydavateľa vedeckých alebo
+  - Kto je **vydavateľ**? Ide o dôveryhodného vydavateľa vedeckých alebo
     odborných publikácií?
-  - Zastrešuje daný zdroj nejaká profesná organizácia, prestížna
+  - Zastrešuje daný zdroj nejaká profesná **organizácia**, prestížna
     univerzita a pod.?
   - Školiteľ vám môže odporučiť dôveryhodné zdroje v danej oblasti
   - Wikipédia (hlavne anglická verzia) je obľúbená encyklopédia s
@@ -46,7 +60,7 @@ Pozor, dôležité je posúdiť dôveryhodnosť zdroja
 
 ## Hľadanie zdrojov
 
-  - Google, prípadne iné internetové vyhľadávače
+  - Bežné internetové vyhľadávače, AI
   - Google scholar <https://scholar.google.com/>
       - špecializovaný vyhľadávač na vedecké články, knihy, dizertačné
         práce, technické správy a pod.
@@ -72,6 +86,7 @@ zdroje môžete nájsť pomocou citácií
   - pozrite si (napr. v Google Scholar), aké iné práce citujú vašu
     publikáciu a znova odhadnite, ktoré môžu byť relevantné
   - postup opakujte pre takto nájdené práce
+  - počet citácií do určitej miery vyjadruje dôležitosť článku
 
 **Prístupnosť vedeckých článkov**
 
@@ -134,12 +149,19 @@ konzistentné v celom zozname literatúry)
 ## Ako citovať použité zdroje
 
   - Jednotlivé položky v zozname literatúry sú väčšinou číslované \[1\],
-    \[2\],... (niekedy sú im priradené skratky, napr. \[CLRS01\]). Pomocou
+    \[2\],...  Pomocou
     týchto označení sa na ne potom odkazujeme v texte.
       - Opäť je vhodné každú položku aspoň raz v texte spomenúť, aby
-        bolo jasné prečo ju citujete.
-  - Takýmto odkazom poukážeme na zdroj daného údaju alebo tvrdenia,
-    napr.
+        bolo jasné prečo ju citujete.	
+  - Dôvody, prečo prácu citujete môžu byť napr.
+    - Akademická integrita: nevydávať cudziu prácu za vlastnú, priznať zdroje, tým aj poďakovať pôvodným autorom
+    - Uviesť zdroj netriviálnych tvrdení na overenie ich pravdivosti
+    - Odkázať na softvéry a iné práce, ktoré priamo využívate v práci
+    - Prehľad existujúcich prác vo vašej oblasti
+
+
+Odkazy na zdroje v texte práce
+  - Odkazom poukážeme na zdroj daného údaju alebo tvrdenia, napr.
       - *Časová zložitosť algoritmu MergeSort je O(n log n) \[4\].* (v
         knihe, ktorá je v zozname literatúry pod číslom \[4\], je zdroj
         tohto tvrdenia o zložitosti)
@@ -166,13 +188,15 @@ konzistentné v celom zozname literatúry)
         určitej oblasti.)
   - Je možné sa odkazovať aj na konkrétne kapitoly alebo strany
     citovaných diel.
+  - V texte väčšinou neuvádzame ďalšie podrobnosti ako napríklad celý názov práce, názov konferencie a podobne, tie sú v zozname literatúry.
+
 
 ## Podporný softvér
 
 Databáza článkov, automatické generovanie zoznamu literatúry v rôznych
 formátoch, pridávanie poznámok
 
-  - <https://www.mendeley.com/>
-  - <https://www.zotero.org/>
+  - <https://www.mendeley.com/> (open source)
+  - <https://www.zotero.org/> (komerčný)
 
 Prácu s literatúrou v LaTeXu popisujeme na [tejto stránke](./LaTeX_pre_bakalársku_prácu.md).
