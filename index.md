@@ -22,9 +22,9 @@ Kutsko, Milčová, Kostolník, Pilátová, Bukreev
 * **18.11. Prezentácie (aspoň 2)**<br>
 Shcherban, Andrukhovskyi, Chromík, Jendrušák, Tunik
 * **25.11. Prezentácie (aspoň 2)**<br>
-Kužmová, Skaloš, Novotný, Šugár, Pákozdyová
+Ganajová, Skaloš, Novotný, Šugár, Pákozdyová
 * **2.12. Prezentácie (aspoň 2)**<br>
-Kasat, Kuprienko, Atamas, Ganajová, Vladová
+Kasat, Kuprienko, Atamas, Kužmová, Vladová
 * **9.12. Prezentácie (aspoň 2)**<br>
 E.Nagyová, Kalyn, Beloglazov, P.Nagyová, Voenkov
 * **16.12. Prezentácie (aspoň 2)**<br>
