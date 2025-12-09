@@ -6,8 +6,8 @@ https://stackoverflow.com/questions/34347818/using-mathjax-on-a-github-page
 * one
 * two: $\frac{x}{y}$
 
-```python
+{% highlight python %}
 # a simple code
 for i in range(10):
   print(i)
-```
+{% endhighlight %}
