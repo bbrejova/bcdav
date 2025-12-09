@@ -26,7 +26,7 @@ Ganajová, Novotný, Šugár, Pákozdyová
 * **2.12. Prezentácie (aspoň 2)**<br>
 Skaloš, Kasat, Kuprienko, Atamas, Kužmová
 * **9.12. Prezentácie (aspoň 2)**<br>
-Vladová, E.Nagyová, Kalyn, Beloglazov, P.Nagyová, Voenkov
+Vladová, E.Nagyová, Kalyn, P.Nagyová, Voenkov
 * **16.12. Prezentácie (aspoň 2)**<br>
-Šimkovič, Nguyen Van, Krebesová, Osipchuk
+Beloglazov, Šimkovič, Nguyen Van, Krebesová, Osipchuk
 * **Kontrolné stretnutie cez skúškové obdobie**
