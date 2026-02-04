@@ -7,6 +7,8 @@ v poslednom ročníku.
 
 1. [Štúdium v poslednom ročníku](./Štúdium_v_poslednom_ročníku.md)
 2. [Výber školiteľa a témy](./Výber_školiteľa_a_témy.md)
+   - [Príklady prác bioinformatika](Priklady_BIN.html)
+   - [Príklady prác dátová veda](Priklady_DAV.html)
 3. [Rady k samotnej práci](./Rady_k_samotnej_práci.md)
 4. [Písomná práca](./Písomná_práca.md)
    - (4b) [Plagiátorstvo a použitie UI](./Plagiatorstvo.md)

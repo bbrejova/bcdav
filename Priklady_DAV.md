@@ -2,6 +2,22 @@
 title: Príklady prác na študijnom programe dátová veda
 ---
 
+* Tomáš Antal (2025) [Porovnanie metód výberov podvzorky](https://opac.crzp.sk/?fn=detailBiblioForm&sid=9EB7DDC054CB7EBFEA7ADBEAFF98) (školiteľ Samuel Rosa)
+* Viktor Balan (2025) [The Star-Removal Problem for Regular Languages](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC40580A0749F) (školiteľ Peter Kostolányi)
+* Simona Bednáriková (2025) [Odhaľovanie daňových manipulácií pomocou metód strojového učenia a umelej inteligencie](https://opac.crzp.sk/?fn=detailBiblioForm&sid=DC84C828B12A860ACEE9CBE11755) (školiteľ Eduard Baumöhl)
+* Anna Viktória Bothová (2025) [Analýza vplyvu meteorologických podmienok na výnosy plodín](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108AF3E13E80399) (školiteľ Martin Gera)
+* Erik Božík (2025) [Slovak Speech Corpora for Open-Source Automatic Speech Recognition](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC4068CA0749F) (školiteľ Marek Šuppa)
+* Kristína Galková (2025) [Data mining v akademických databázach](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108A23A16E80399) (školiteľ Pavol Bokes)
+* Samuel Guláš (2025) [Vzájomné vzťahy finančných aktív](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC40581A0749F) (školiteľ Eduard Baumöhl)
+* Daniela Halmová (2025) [Identifying the source of microbial DNA fragments circulating in human blood](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC4068AA0749F) (školiteľ Jaroslav Budiš)
+* Tadeáš Kaminský (2025) [Segmentácia používateľov pre personalizované odporúčania](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC4068BA0749F) (školiteľ Ondrej Kaššák)
+* Mária Kopecká (2025) [Automatické zošívanie videa a hudobného podkladu](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC4048AA0749F) (školiteľ Marek Šuppa)
+* Zuzana Kováčová (2025) [Specificity of the Methodology for Detecting Anomalies in Athletes' Biological Passports Used in Anti-Doping Testing](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108A23A17E80399) (školiteľ Richard Kollár)
+* Teo Pazera (2025) [Enhancement of RAG chatbots performance using various heuristics](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108A23A14E80399) (školiteľ Michal Uherek)
+* Jana Poľašková (2025) [Analysis and visualization of adversarial inputs in neural networks](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108A03D1AE80399) (školiteľ Igor Farkaš)
+* Andrej Špitalský (2025) [Territory Formation in Wolf Populations](https://opac.crzp.sk/?fn=detailBiblioForm&sid=F3AF90715DF24108AF3E12E80399) (školiteľ Richard Kollár)
+* Tomáš Varga (2025) [Detekcia halucinácii vo veľkých jazykových modeloch](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C218772124E30DDCC40688A0749F) (školiteľ Vladimír Boža)
+
 * Roderik Antol (DAV, 2024) [Detection of tax manipulations using machine learning and artificial intelligence methods](https://opac.crzp.sk/?fn=detailBiblioForm&sid=C1EFC3B1039AA8EF96EDF8AFAF84) (školiteľ Eduard Baumöhl)
 * Tomáš Belák (DAV, 2024) [Databáza športovísk na Slovensku](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCB8EA9E4AF) (školiteľ Martin Dovičák)
 * Barbora Bezáková (DAV, 2024) [Rozpoznávanie akcií z fotografií](https://opac.crzp.sk/?fn=detailBiblioForm&sid=A6A9937D4AB687F47BCA84A9E4AF) (školiteľka Zuzana Berger Haladová)
