@@ -99,8 +99,8 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
       - Vyučujúci predmetov v tejto oblasti
       - Šḱolitelia prác z podobnej oblasti na [študentskej vedeckej konferencii](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
       - Môžete sa pozrieť, kto v minulosti školil práce v podobnej oblasti
-          - Napríklad v príkladoch prác z [BIN](Príklady_BIN.html) a [DAV](Priklady_DAV.html)
-          - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](http://alis.uniba.sk:8088/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
+          - Napríklad v príkladoch prác z [BIN](Priklady_BIN.html) a [DAV](Priklady_DAV.html)
+          - V akademickej knižnici UK zvoľte [rozšírené vyhľadávanie](https://alis.uniba.sk:8443/search/query?match_1=MUST&field_1=ud25&term_1=bakal%C3%A1rske+pr%C3%A1ce&match_2=PHRASE&field_2=s&term_2=informatika&sort=dateNewest&theme=Katalog),
             zadajte ako žáner bakalárske práce a ako predmet napríklad
             Informatika alebo Matematika, zotrieďte podľa roku vydania
   - Oslovte potenciálnych školiteľov e-mailom alebo osobne, spýtajte sa,
