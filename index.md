@@ -5,6 +5,34 @@ layout: index
 
 ### 1-DAV-921, 1-BIN-921, 1-DAV-922, 1-BIN-922
 
+#### Letný semester
+
+* **19.2. Úvod (všetci)**<br>
+<!-- [Oznamy](./Oznamy_február.md) -->
+* **26.2. Cvičenie k písaniu (všetci)**<br>
+<!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> -->
+<!-- Zadanie: -->
+<!-- Prezentáciu aj vypracované cvičenie nájdete v Moodli. -->
+* **5.3. Prezentácie**<br>
+* **12.3. Prezentácie**<br>
+* **19.3. Prezentácie**<br>
+* **26.3. Prezentácie**<br>
+* **2.4.** Veľká Noc<br>
+* **9.4. Prezentácie**<br>
+* **16.4. Kontrolné stretnutia**<br>
+(predbežne skupiny 5.3. a 12.3.)
+* **23.4. Kontrolné stretnutia**<br>
+(predbežne skupiny 19.3. a 26.3.)
+* **30.4. Kontrolné stretnutia**<br>
+(predbežne skupina 9.4.)
+* **7.5.** Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
+[Oznamy](./Oznamy_máj.md) --> 
+* **14.5.** Rezerva 
+* V skúškovom období [nácvik obhajob](./Prezentácia_3.html)
+
+
+#### Zimný semester
+
 * **23.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)
 * **30.9. Seminár nebude**
@@ -18,15 +46,9 @@ layout: index
 [Návod](./Návod.md) (podstránky 5., 6.) •  [DÚ1](./DÚ1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)
 * **4.11. Rezerva**
 * **11.11. Prezentácie (aspoň 2)**<br>
-Kutsko, Milčová, Kostolník, Pilátová, Bukreev
 * **18.11. Prezentácie (aspoň 2)**<br>
-Shcherban, Andrukhovskyi, Chromík, Jendrušák, Tunik
 * **25.11. Prezentácie (aspoň 2)**<br>
-Ganajová, Novotný, Šugár, Pákozdyová
 * **2.12. Prezentácie (aspoň 2)**<br>
-Skaloš, Kasat, Kuprienko, Atamas, Kužmová
 * **9.12. Prezentácie (aspoň 2)**<br>
-Vladová, E.Nagyová, Kalyn, P.Nagyová, Voenkov
 * **16.12. Prezentácie (aspoň 2)**<br>
-Beloglazov, Šimkovič, Nguyen Van, Krebesová, Osipchuk
 * **Kontrolné stretnutie cez skúškové obdobie**
