@@ -8,7 +8,7 @@ layout: index
 #### Letný semester
 
 * **19.2. Úvod (všetci)**<br>
-<!-- [Oznamy](./Oznamy_február.md) -->
+[Oznamy](./Oznamy_február.md)
 * **26.2. Cvičenie k písaniu (všetci)**<br>
 <!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> -->
 <!-- Zadanie: -->
@@ -20,12 +20,12 @@ layout: index
 * **2.4.** Veľká Noc<br>
 * **9.4. Prezentácie**<br>
 * **16.4. Kontrolné stretnutia**<br>
-(predbežne skupiny 5.3. a 12.3.)
+(predbežne skupiny 5.3., 12.3., 19.3.)
 * **23.4. Kontrolné stretnutia**<br>
-(predbežne skupiny 19.3. a 26.3.)
-* **30.4. Kontrolné stretnutia**<br>
+(predbežne skupiny 26.3., 9.4.)
+* **30.4.** Rezerva<br>
 (predbežne skupina 9.4.)
-* **7.5.** Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
+* **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) --> 
 * **14.5.** Rezerva 
 * V skúškovom období [nácvik obhajob](./Prezentácia_3.html)

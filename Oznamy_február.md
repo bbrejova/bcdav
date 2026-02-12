@@ -13,8 +13,8 @@
 
 - Tento týždeň úvod k predmetu, pokyny k odovzdávaniu prác.
 - Budúci týždeň povinné cvičenie k písaniu. Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.
-- Pondelok 10.3. odovzdanie DÚ2.
-- Od utorka 11.3. máte 2 týždne na komentáre pre spolužiakov k ich DÚ2.
-- Od 6.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
+- Pondelok 2.3. 22:00 odovzdanie DÚ2.
+- Do pondelka 16.3. 22:00 komentáre pre spolužiakov k ich DÚ2.
+- Od 5.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
 
 **Usilovne pracujte na bakalárke, do termínu odovzdania sú tri mesiace!**
