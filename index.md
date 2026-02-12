@@ -23,8 +23,7 @@ layout: index
 (predbežne skupiny 5.3., 12.3., 19.3.)
 * **23.4. Kontrolné stretnutia**<br>
 (predbežne skupiny 26.3., 9.4.)
-* **30.4.** Rezerva<br>
-(predbežne skupina 9.4.)
+* **30.4.** Rezerva
 * **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) --> 
 * **14.5.** Rezerva 
