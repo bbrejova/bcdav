@@ -7,12 +7,12 @@ title: Bakalársky seminár DAV+BIN 2025/26
 # TODO: zmenit cislo triedy v moodle podla semestra
 # ZS: 3302 LS: 3303
 # zvycajne zostane rovnake medzi rokmi
-moodle: 3302
+moodle: 3303
 
 # TODO: zmenit podla semestra ZS/LS
 header_pages:
   - index.md
-  - Pravidlá_ZS.md 
+  - Pravidlá_LS.md 
   - Kontakt.md
   - Návod.md
   

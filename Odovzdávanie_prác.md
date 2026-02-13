@@ -7,7 +7,7 @@ title: Odovzdávanie prác
   - Názov práce musí byť rovnaký s názvom uvedeným v zadaní práce
   - Ak chcete (so súhlasom školiteľa) zmeniť názov alebo jazyk práce, je
     potrebné v dostatočnom predstihu zmeniť zadanie
-  - Na to treba súčinnosť školiteľa a garanta, preto to naozaj riešte
+  - Na to treba súčinnosť školiteľa a garanta, preto to riešte
     iba ak naozaj treba a dostatočne skoro pred termínom odovzdania
   - Nové zadanie treba odniesť aj na študijné s podpismi študenta a
     školiteľa
@@ -94,40 +94,31 @@ knižnici
 ## Vytlačená verzia práce
 
   - Má byť identická s elektronickou
-  - Jednostranná alebo obojstranná tlač (od 2018 sa odporúča
-    obojstranná), pevná väzba (tvrdé dosky alebo termoväzba), nesmie
+  - Jednostranná alebo obojstranná tlač (podľa nastavení v LaTeXu),
+    pevná väzba (tvrdé dosky alebo termoväzba), nesmie
     byť možné vyberať stránky
   - Elektronické prílohy stačí odovzdať do AIS,
     netreba ich prikladať k vytlačenej práci
   - Pozor na správnu úpravu titulnej stránky a ďalších povinných
     náležitostí
-  - Odovzdáva sa jedna kópia práce plus kópia titulného listu práce
-  - V odovzdanom výtlačku práce má byť zadanie s originál podpisom
-    študenta aj školiteľa
+  - Odovzdáva sa jedna kópia práce
+  - Vo vytlačenej práci nemusia byť podpisy v zadaní (v pdf nesmú byť podpisy)
   - Ak nemajú na študijnom oddelení aktuálnu verziu vášho zadania, treba
     ju tam zaniesť, podpísanú študentom a školiteľom
   - V prípade prác v angličtine treba mať v práci aj pre archiváciu
     obidve jazykové verzie zadania
+  - Po obhajobe vám vytlačenú prácu vrátime, môžete si ju nechať na pamiatku
 
-## Odovzdávanie vytlačených prác na katedre
+## Odovzdávanie vytlačených prác
 
-BIN:
-
-  - Odovzdáva sa na sekretariáte Katedry informatiky u pani Pažickej,
-    M-254, odporúčame prísť v doobednajších hodinách 
-  - Ďalšie informácie viď [stránka
-    katedry](http://new.dcs.fmph.uniba.sk/index.php/Studium/Bakalarske/OdovzdavanieBakalarskychPrac)
-
-DAV
-
-  - Odovzdáva sa na sekretariáte Katedry aplikovanej informatiky u pani Slobodovej I-24. alebo ak tam nie je, tak cez podateľňu, adresujte Zdenka Slobodová, KAI
+- Prácu odovzdajte na nácviku obhajob počas skúškového obdobia
+- Ak máte nácvik obhajob uznaný napr. z minulého roku, prácu ideálne doneste aj tak na začiatok nácviku niektorej skupiny alebo pošlite po spolužiakovi
 
 Prineste
 
   - 1 kópiu práce,
   - 1 kópiu titulnej strany (strana, na ktorej je aj pracovisko a
     študijný program),
-  - e-mail na školiteľa, hlavne pokiaľ nie je z našej fakulty,
   - elektronickú prílohu, ak sa ju nepodarilo nahrať do systému kvôli
     veľkosti
 

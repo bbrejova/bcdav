@@ -8,7 +8,7 @@ layout: index
 #### Letný semester
 
 * **19.2. Úvod (všetci)**<br>
-[Oznamy](./Oznamy_február.md)
+[Oznamy](./Oznamy_február.md) • [Časové konflikty](https://moodle.uniba.sk/mod/assign/view.php?id=180181) 
 * **26.2. Cvičenie k písaniu (všetci)**<br>
 <!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> -->
 <!-- Zadanie: -->
@@ -33,7 +33,7 @@ layout: index
 #### Zimný semester
 
 * **23.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
-[Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)
+[Pravidlá](./Pravidlá_ZS.md) • [Návod](./Návod.md) (podstránky 1.-3.)
 * **30.9. Seminár nebude**
 * **7.10. Predstavovanie tém a školiteľov (všetci)**
 * **Streda 8.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**

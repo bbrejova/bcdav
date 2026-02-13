@@ -15,6 +15,7 @@
 - Budúci týždeň povinné cvičenie k písaniu. Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.
 - Pondelok 2.3. 22:00 odovzdanie DÚ2.
 - Do pondelka 16.3. 22:00 komentáre pre spolužiakov k ich DÚ2.
-- Od 5.3. budú prezentácie, rozpis bude na stránke, dajte vedieť závažné konflikty.
+- Od 5.3. budú prezentácie, rozpis bude na stránke,
+  - Závažné konflikty prosím do piatka 20.2. vyplňte do [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=180181).
 
 **Usilovne pracujte na bakalárke, do termínu odovzdania sú tri mesiace!**
