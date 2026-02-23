@@ -14,15 +14,20 @@ layout: index
 <!-- Zadanie: -->
 <!-- Prezentáciu aj vypracované cvičenie nájdete v Moodli. -->
 * **5.3. Prezentácie**<br>
+Ambrová, Dokupil, Kendereš, Kolesár, Lucina
 * **12.3. Prezentácie**<br>
+Bukreev, Kostolník, Pilátová, Vladová, Andrukhovskyi, Chromík, Tunik
 * **19.3. Prezentácie**<br>
+Jendrušák, Shcherban, Atamas, Nagyová, Osipchuk, Milčová, Nagyová
 * **26.3. Prezentácie**<br>
+Pákozdyová, Ganajová, Kasat, Kuprienko, Beloglazov, Voenkov, Kutsko
 * **2.4.** Veľká Noc<br>
 * **9.4. Prezentácie**<br>
+Nguyen Van, Šimkovič, Novotný, Skaloš, Šugár, Kužmová, Kalyn
 * **16.4. Kontrolné stretnutia**<br>
-(predbežne skupiny 5.3., 12.3., 19.3.)
+(skupiny 12.3., 19.3.)
 * **23.4. Kontrolné stretnutia**<br>
-(predbežne skupiny 26.3., 9.4.)
+(skupiny 26.3., 9.4.)
 * **30.4.** Rezerva
 * **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
 [Oznamy](./Oznamy_máj.md) --> 
