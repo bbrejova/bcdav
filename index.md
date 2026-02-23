@@ -18,7 +18,7 @@ Ambrová, Dokupil, Kendereš, Kolesár, Lucina
 * **12.3. Prezentácie**<br>
 Bukreev, Kostolník, Pilátová, Vladová, Andrukhovskyi, Chromík, Tunik
 * **19.3. Prezentácie**<br>
-Jendrušák, Shcherban, Atamas, Nagyová, Osipchuk, Milčová, Nagyová
+Jendrušák, Shcherban, Atamas, P. Nagyová, Osipchuk, Milčová, E. Nagyová
 * **26.3. Prezentácie**<br>
 Pákozdyová, Ganajová, Kasat, Kuprienko, Beloglazov, Voenkov, Kutsko
 * **2.4.** Veľká Noc<br>
