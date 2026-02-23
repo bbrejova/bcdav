@@ -8,7 +8,7 @@ layout: index
 #### Letný semester
 
 * **19.2. Úvod (všetci)**<br>
-[Oznamy](./Oznamy_február.md) • [Časové konflikty](https://moodle.uniba.sk/mod/assign/view.php?id=180181) 
+[Oznamy](./Oznamy_február.md) <!-- • [Časové konflikty](https://moodle.uniba.sk/mod/assign/view.php?id=180181) -->
 * **26.2. Cvičenie k písaniu (všetci)**<br>
 <!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br> -->
 <!-- Zadanie: -->
