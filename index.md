@@ -11,7 +11,7 @@ layout: index
 [Oznamy](./Oznamy_február.md) <!-- • [Časové konflikty](https://moodle.uniba.sk/mod/assign/view.php?id=180181) -->
 * **26.2. Cvičenie k písaniu (všetci)**<br>
 Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br>
-Zadanie: https://docs.google.com/presentation/d/1o4n4LOHHwjci-tCULL_6jbKMVSebn2SFwxfpZx25sDM/edit?usp=sharing
+Zadanie: <https://docs.google.com/presentation/d/1o4n4LOHHwjci-tCULL_6jbKMVSebn2SFwxfpZx25sDM/edit?usp=sharing>
 <!-- Prezentáciu aj vypracované cvičenie nájdete v Moodli. -->
 * **5.3. Prezentácie**<br>
 Ambrová, Dokupil, Kendereš, Kolesár, Lucina
