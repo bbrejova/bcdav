@@ -16,14 +16,14 @@ Prezentáciu aj vypracované cvičenie nájdete v Moodli.
 * **5.3. Prezentácie**<br>
 Ambrová, Dokupil, Kendereš, Kolesár, Lucina
 * **12.3. Prezentácie**<br>
-Bukreev, Kostolník, Pilátová, Vladová, Andrukhovskyi, Chromík, Tunik
+Bukreev, Kostolník, Pilátová, Andrukhovskyi, Chromík, Tunik
 * **19.3. Prezentácie**<br>
 Jendrušák, Shcherban, Atamas, P. Nagyová, Osipchuk, Milčová, E. Nagyová
 * **26.3. Prezentácie**<br>
-Pákozdyová, Ganajová, Kasat, Kuprienko, Beloglazov, Voenkov, Kutsko
+Pákozdyová, Kasat, Kuprienko, Beloglazov, Voenkov, Kutsko
 * **2.4.** Veľká Noc<br>
 * **9.4. Prezentácie**<br>
-Nguyen Van, Šimkovič, Novotný, Skaloš, Šugár, Kužmová, Kalyn
+Nguyen Van, Šimkovič, Novotný, Skaloš, Šugár, Kužmová, Kalyn, Ganajová
 * **16.4. Kontrolné stretnutia**<br>
 (skupiny 12.3., 19.3.)
 * **23.4. Kontrolné stretnutia**<br>
