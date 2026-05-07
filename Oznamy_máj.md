@@ -25,7 +25,7 @@
 - 12.6. koniec skúškového obdobia, nahláste študijnej referentke ukončenie skúškového
 - 16.–30.6. Štátne skúšky a obhajoby (sledujte [oznamy študijného
  oddelenia](https://zona.fmph.uniba.sk/studenti-a-studium/statne-skusky-a-obhajoby/))
-  - predbežne BIN štátnice 19.6., obhajoby 23.6, DAV štátnice 19. a 20.6., obhajoby 23.-25.6.  
+  - predbežne BIN štátnice 18.6., obhajoby 23.6, DAV štátnice 18. a 19.6., obhajoby 23.-25.6.  
   - 30.6. budú prijímacie skúšky na mINF
       - bez prijímačiek prijatí študenti, ktorí majú študijný priemer z
         povinných a povinne voliteľných predmetov (vrátane štátnic a
