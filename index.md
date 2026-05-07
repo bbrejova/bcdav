@@ -29,8 +29,8 @@ Nguyen Van, Šimkovič, Novotný, Skaloš, Šugár, Kužmová, Kalyn, Ganajová
 * **23.4. Kontrolné stretnutia**<br>
 (skupiny 26.3., 9.4.)
 * **30.4.** Rezerva
-* **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)**<!-- <br>
-[Oznamy](./Oznamy_máj.md) --> 
+* **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** <br>
+[Oznamy](./Oznamy_máj.md)
 * **14.5.** Rezerva 
 * V skúškovom období [nácvik obhajob](./Prezentácia_3.html)
 
